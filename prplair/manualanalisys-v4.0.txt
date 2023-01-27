@@ -1,0 +1,9695 @@
+Calculating: 66.219.236.117
+	False from:  1870
+	To:  4888
+	False from:  6911
+	To:  6933
+True positives: 5539 / 8579
+False negatives: 3040 / 0
+Errors: 0
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  7070
+		True from:  13094
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 11930 / 0
+	True Negatives: 6046 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  6049
+		To end: 9587
+	False positives: 3539 / 0
+	True Negatives: 5040 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  5921
+		True from:  8940
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 9589 / 0
+	True Negatives: 3041 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1601
+		True from:  1621
+		To:  3456
+		True from:  3461
+		To:  3496
+		True from:  3500
+		To:  3690
+		True from:  3691
+		To:  3692
+		True from:  3695
+		To:  3704
+		True from:  3733
+		To:  3736
+		True from:  3749
+		To:  3758
+		True from:  3759
+		To:  4205
+		True from:  4224
+		To:  5635
+		True from:  5638
+		To:  6419
+		True from:  6420
+		To:  6423
+		True from:  6439
+		To:  6452
+		True from:  6511
+		To:  6545
+		True from:  6566
+		To:  6568
+		True from:  6569
+		To:  6581
+		True from:  6636
+		To:  6637
+		True from:  6638
+		To:  6702
+		True from:  6756
+		To:  6784
+		True from:  6786
+		To:  6821
+		True from:  6822
+		To:  6929
+		True from:  6979
+		To:  6993
+		True from:  7072
+		To:  7079
+		True from:  7256
+		To:  7265
+		True from:  7401
+		To:  7410
+		True from:  7518
+		To:  7562
+		True from:  7638
+		To:  7654
+		True from:  7793
+		To:  7802
+		True from:  7824
+		To:  7855
+		True from:  7929
+		To:  7937
+		True from:  7939
+		To:  7951
+		True from:  7952
+		To:  7954
+		True from:  8023
+		To:  8025
+		True from:  8054
+		To:  8085
+		True from:  8126
+		To:  8146
+		True from:  8223
+		To:  8229
+		True from:  8239
+		To:  8284
+		True from:  8319
+		To:  8326
+		True from:  8332
+		To:  8335
+		True from:  8378
+		To:  8419
+		True from:  8460
+		To:  8504
+		True from:  8506
+		To:  8547
+		True from:  8579
+		To:  8581
+		True from:  8585
+		To:  8602
+		True from:  8653
+		To:  8695
+		True from:  8700
+		To:  8715
+		True from:  8717
+		To:  8916
+		True from:  8948
+		To:  9367
+		True from:  9388
+		To:  10418
+		True from:  10556
+		To:  10559
+		True from:  10565
+		To:  10566
+		True from:  10567
+		To:  10568
+		True from:  11056
+		To:  11057
+		True from:  11091
+		To:  11100
+		True from:  11101
+		To:  11102
+		True from:  11166
+		To:  11169
+		True from:  11172
+		To:  11225
+		True from:  11282
+		To:  11372
+		True from:  11384
+		To:  11387
+		True from:  11392
+		To:  11400
+		True from:  11431
+		To:  11449
+		True from:  11467
+		To:  11470
+		True from:  11472
+		To:  11504
+		True from:  11506
+		To:  11562
+		True from:  11603
+		To:  11605
+		True from:  11608
+		To:  11610
+		True from:  11611
+		To:  11612
+		True from:  11613
+		To:  11618
+		True from:  11636
+		To:  11638
+		True from:  11680
+		To:  11682
+		True from:  11689
+		To:  11690
+		True from:  11692
+		To:  11694
+		True from:  11696
+		To:  11697
+		True from:  11722
+		To:  11723
+		True from:  11725
+		To:  11784
+		True from:  11808
+		To:  11912
+		True from:  11913
+		To:  11915
+		True from:  11924
+		To:  11928
+		True from:  11964
+		To:  11965
+		True from:  11974
+		To:  11976
+		True from:  12004
+		To:  12048
+		True from:  12054
+		To:  12056
+		True from:  12057
+		To:  12059
+		True from:  12072
+		To:  12076
+		True from:  12122
+		To:  12153
+		True from:  12273
+		To:  12282
+		True from:  12307
+		To:  12309
+		True from:  12310
+		To:  12324
+		True from:  12377
+		To:  12416
+		True from:  12417
+		To:  12420
+		True from:  12447
+		To:  12475
+		True from:  12508
+		To:  12555
+		True from:  12558
+		To:  12567
+		True from:  12569
+		To:  12582
+		True from:  12587
+		To:  12588
+		True from:  12591
+		To:  12593
+		True from:  12598
+		To:  12599
+		True from:  12608
+		To:  12647
+		True from:  12662
+		To:  12707
+		True from:  12713
+		To:  12730
+		True from:  12731
+		To:  12734
+		True from:  12814
+		To:  12816
+		True from:  12857
+		To:  12910
+	False positives: 8619 / 0
+	True Negatives: 3298 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2822
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3716 / 0
+	True Negatives: 8364 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  10961
+		True from:  10985
+		To:  11040
+		True from:  11056
+		To end: 12922
+	False positives: 11846 / 0
+	True Negatives: 68 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To:  1027
+		True from:  1028
+		To:  1032
+		True from:  2036
+		To end: 3525
+	False positives: 1512 / 0
+	True Negatives: 1005 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2234
+		To:  2249
+	False positives: 15 / 0
+	True Negatives: 2502 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  2234
+		To:  2250
+	False positives: 16 / 0
+	True Negatives: 2501 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1014
+		True from:  1020
+		To:  1021
+		True from:  1238
+		To:  1239
+		True from:  1244
+		To:  1247
+		True from:  1448
+		To:  1449
+		True from:  1496
+		To:  1501
+		True from:  1503
+		To:  1510
+		True from:  1591
+		To:  1599
+		True from:  1640
+		To:  1642
+		True from:  1674
+		To:  1676
+		True from:  1763
+		To:  1779
+		True from:  1780
+		To:  1783
+		True from:  1803
+		To:  1816
+		True from:  1817
+		To:  1825
+		True from:  1852
+		To:  1948
+		True from:  1953
+		To:  1973
+		True from:  1994
+		To:  2019
+		True from:  2022
+		To:  2023
+		True from:  2071
+		To:  2114
+		True from:  2115
+		To:  2117
+		True from:  2187
+		To:  2204
+		True from:  2214
+		To:  2215
+		True from:  2221
+		To:  2305
+		True from:  2309
+		To:  2311
+		True from:  2312
+		To:  2347
+		True from:  2348
+		To:  2351
+		True from:  2353
+		To:  2356
+		True from:  2358
+		To:  2419
+		True from:  2450
+		To:  2452
+		True from:  2461
+		To:  2467
+		True from:  2468
+		To:  2475
+		True from:  2476
+		To:  2487
+		True from:  2504
+		To:  2525
+		True from:  2543
+		To:  2564
+		True from:  2571
+		To:  2577
+		True from:  2580
+		To:  2585
+		True from:  2586
+		To:  2591
+		True from:  2601
+		To:  2649
+		True from:  2650
+		To:  2666
+		True from:  2668
+		To:  2720
+		True from:  2734
+		To:  2787
+		True from:  2811
+		To:  2887
+		True from:  2888
+		To:  2896
+		True from:  2897
+		To:  2902
+		True from:  2914
+		To:  2915
+		True from:  2926
+		To:  2928
+		True from:  2939
+		To:  2971
+		True from:  3001
+		To:  3005
+		True from:  3012
+		To:  3017
+		True from:  3027
+		To:  3077
+		True from:  3078
+		To:  3081
+		True from:  3082
+		To:  3086
+		True from:  3103
+		To:  3104
+		True from:  3105
+		To:  3106
+		True from:  3112
+		To:  3151
+		True from:  3181
+		To:  3231
+		True from:  3293
+		To:  3373
+		True from:  3374
+		To:  3375
+		True from:  3386
+		To:  3395
+		True from:  3399
+		To:  3405
+		True from:  3407
+		To:  3411
+		True from:  3441
+		To:  3486
+		True from:  3506
+		To:  3507
+		True from:  3513
+		To:  3514
+		True from:  3521
+		To:  3523
+	False positives: 1151 / 0
+	True Negatives: 1366 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To:  1022
+		True from:  2228
+		To:  2250
+		True from:  3357
+		To:  3367
+		True from:  3368
+		To:  3369
+		True from:  3370
+		To:  3372
+	False positives: 48 / 0
+	True Negatives: 2469 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To end: 3525
+	False positives: 2382 / 0
+	True Negatives: 135 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 91440 / 0
+True Negatives: 74551 / 165991
+Errors: 0
+
+Calculating: 174.52.180.239
+	False from:  4116
+	To:  6057
+	False from:  7523
+	To:  7552
+	False from:  8821
+	To:  8926
+True positives: 6504 / 8579
+False negatives: 2075 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1790
+		To:  1869
+		True from:  4888
+		To:  6910
+		True from:  6933
+		To:  9530
+		True from:  9570
+		To:  9577
+		True from:  9578
+		To:  9579
+		True from:  9580
+		To end: 9587
+	False positives: 4714 / 0
+	True Negatives: 3865 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1789
+		To:  1869
+		True from:  4889
+		To:  6911
+		True from:  6933
+		To:  9519
+	False positives: 4688 / 0
+	True Negatives: 3891 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  6896
+		To:  7069
+		True from:  13095
+		To:  15389
+		True from:  15412
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 6018 / 0
+	True Negatives: 11958 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1795
+		To:  1812
+		True from:  1813
+		To:  1818
+		True from:  1840
+		To:  1868
+		True from:  4890
+		To:  5024
+		True from:  5028
+		To:  5031
+		True from:  5040
+		To:  5042
+		True from:  5047
+		To:  5101
+		True from:  5103
+		To:  5104
+		True from:  5105
+		To:  5108
+		True from:  5109
+		To:  5317
+		True from:  5323
+		To:  5410
+		True from:  5433
+		To:  5533
+		True from:  5545
+		To:  6911
+		True from:  6934
+		To end: 9587
+	False positives: 4662 / 0
+	True Negatives: 3917 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  9529
+		To:  9561
+	False positives: 32 / 0
+	True Negatives: 8547 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1788
+		To:  1869
+		True from:  4888
+		To:  6042
+		True from:  6050
+		To:  6825
+		True from:  6829
+		To:  6911
+		True from:  6933
+		To:  9517
+		True from:  9578
+		To end: 9587
+	False positives: 4686 / 0
+	True Negatives: 3893 / 8579 
+
+	Checking against: byu.edu
+		True from:  5864
+		To:  5889
+		True from:  5902
+		To:  5919
+		True from:  8948
+		To:  8988
+		True from:  8990
+		To:  9001
+		True from:  9002
+		To:  9032
+		True from:  9049
+		To:  9051
+		True from:  9056
+		To:  9080
+		True from:  9099
+		To:  9121
+		True from:  9131
+		To:  9141
+		True from:  9145
+		To:  9210
+		True from:  9254
+		To:  9323
+		True from:  9373
+		To:  9407
+		True from:  9429
+		To:  9489
+		True from:  9491
+		To:  9495
+		True from:  9496
+		To:  9497
+		True from:  9521
+		To:  9522
+		True from:  9539
+		To:  9543
+		True from:  9546
+		To:  9564
+		True from:  9567
+		To:  9571
+		True from:  9574
+		To:  9579
+		True from:  9584
+		To:  9633
+		True from:  9635
+		To:  9636
+		True from:  9694
+		To:  9696
+		True from:  9698
+		To:  9710
+		True from:  9716
+		To:  9717
+		True from:  9720
+		To:  9740
+		True from:  9741
+		To:  9742
+		True from:  9763
+		To:  9780
+		True from:  9812
+		To:  9813
+		True from:  9820
+		To:  9847
+		True from:  9910
+		To:  9961
+		True from:  9966
+		To:  9983
+		True from:  9985
+		To:  9992
+		True from:  10008
+		To:  10009
+		True from:  10030
+		To:  10037
+		True from:  10039
+		To:  10075
+		True from:  10102
+		To:  10149
+		True from:  10152
+		To:  10153
+		True from:  10168
+		To:  10195
+		True from:  10198
+		To:  10211
+		True from:  10215
+		To:  10383
+		True from:  10385
+		To:  10394
+		True from:  10404
+		To:  10433
+		True from:  10434
+		To:  10438
+		True from:  10442
+		To:  10446
+		True from:  10447
+		To:  10454
+		True from:  10457
+		To:  10468
+		True from:  10478
+		To:  10483
+		True from:  10494
+		To:  10531
+		True from:  10532
+		To:  10706
+		True from:  10709
+		To:  10758
+		True from:  10760
+		To:  10851
+		True from:  10873
+		To:  10960
+		True from:  10987
+		To:  11028
+		True from:  11046
+		To:  11047
+		True from:  11048
+		To:  11053
+		True from:  11079
+		To:  11090
+		True from:  11092
+		To:  11097
+		True from:  11098
+		To:  11144
+		True from:  11147
+		To:  11152
+		True from:  11165
+		To:  11166
+		True from:  11176
+		To:  11179
+		True from:  11180
+		To:  11226
+		True from:  11252
+		To:  11256
+		True from:  11257
+		To:  11292
+		True from:  11295
+		To:  11298
+		True from:  11305
+		To:  11311
+		True from:  11320
+		To:  11336
+		True from:  11337
+		To:  11342
+		True from:  11360
+		To:  11416
+		True from:  11427
+		To:  11491
+		True from:  11502
+		To:  11507
+		True from:  11511
+		To:  11512
+		True from:  11518
+		To:  11618
+		True from:  11630
+		To:  11631
+		True from:  11633
+		To:  11634
+		True from:  11636
+		To:  11698
+		True from:  11725
+		To:  11726
+		True from:  11727
+		To:  11746
+		True from:  11770
+		To:  11772
+		True from:  11773
+		To:  11940
+		True from:  11964
+		To:  11987
+		True from:  12008
+		To:  12014
+		True from:  12015
+		To:  12019
+		True from:  12024
+		To:  12032
+		True from:  12036
+		To:  12051
+		True from:  12056
+		To:  12098
+		True from:  12101
+		To:  12119
+		True from:  12120
+		To:  12138
+		True from:  12140
+		To:  12170
+		True from:  12192
+		To:  12264
+		True from:  12270
+		To:  12282
+		True from:  12283
+		To:  12365
+		True from:  12369
+		To:  12371
+		True from:  12396
+		To:  12409
+		True from:  12410
+		To:  12411
+		True from:  12433
+		To:  12436
+		True from:  12460
+		To:  12587
+		True from:  12592
+		To:  12596
+		True from:  12610
+		To:  12685
+		True from:  12688
+		To:  12692
+		True from:  12733
+		To:  12735
+		True from:  12759
+		To:  12784
+		True from:  12785
+		To:  12787
+		True from:  12792
+		To:  12797
+		True from:  12811
+		To:  12819
+		True from:  12843
+		To:  12865
+		True from:  12881
+		To:  12954
+		True from:  12964
+		To:  12967
+		True from:  13003
+		To:  13014
+		True from:  13021
+		To:  13024
+		True from:  13025
+		To:  13027
+		True from:  13030
+		To:  13069
+		True from:  13071
+		To:  13180
+		True from:  13182
+		To:  13183
+		True from:  13185
+		To:  13188
+		True from:  13189
+		To:  13194
+		True from:  13204
+		To:  13205
+		True from:  13207
+		To:  13210
+		True from:  13212
+		To:  13215
+		True from:  13216
+		To:  13227
+		True from:  13234
+		To:  13246
+		True from:  13247
+		To:  13345
+		True from:  13375
+		To:  13419
+		True from:  13427
+		To:  13458
+		True from:  13492
+		To:  13570
+		True from:  13633
+		To end: 13638
+	False positives: 3330 / 0
+	True Negatives: 9300 / 12630 
+
+	Checking against: 136.36.62.167
+	False positives: 0 / 0
+	True Negatives: 11917 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  1010
+	False positives: 1 / 0
+	True Negatives: 11913 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1015
+	False positives: 5 / 0
+	True Negatives: 2512 / 2517 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1010
+		True from:  1012
+		To:  1013
+		True from:  1396
+		To:  1397
+		True from:  1402
+		To:  1404
+		True from:  1539
+		To:  1543
+		True from:  1548
+		To:  1553
+		True from:  1554
+		To:  1557
+		True from:  1870
+		To:  1871
+		True from:  2193
+		To:  2200
+		True from:  2316
+		To:  2317
+		True from:  2615
+		To:  2616
+		True from:  2690
+		To:  2709
+		True from:  2822
+		To:  2823
+		True from:  2825
+		To:  2827
+		True from:  3027
+		To:  3030
+	False positives: 52 / 0
+	True Negatives: 2465 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1011
+		True from:  1070
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To:  3279
+	False positives: 2076 / 0
+	True Negatives: 441 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  1015
+		True from:  1020
+		To:  1023
+		True from:  1024
+		To:  1211
+		True from:  1215
+		To:  1226
+		True from:  1230
+		To:  1331
+		True from:  1335
+		To:  1336
+		True from:  1342
+		To:  1351
+		True from:  1354
+		To:  1410
+		True from:  1412
+		To:  1414
+		True from:  1441
+		To:  1537
+		True from:  1540
+		To:  1617
+		True from:  1619
+		To:  1670
+		True from:  1694
+		To:  1798
+		True from:  1820
+		To:  1972
+		True from:  1973
+		To:  1974
+		True from:  1985
+		To:  2010
+		True from:  2023
+		To:  2069
+		True from:  2085
+		To:  2087
+		True from:  2091
+		To:  2109
+		True from:  2111
+		To:  2187
+		True from:  2190
+		To:  2194
+		True from:  2202
+		To:  2272
+		True from:  2273
+		To:  2276
+		True from:  2288
+		To:  2306
+		True from:  2308
+		To:  2340
+		True from:  2344
+		To:  2373
+		True from:  2374
+		To:  2382
+		True from:  2406
+		To:  2441
+		True from:  2442
+		To:  2453
+		True from:  2477
+		To:  2593
+		True from:  2594
+		To:  2673
+		True from:  2677
+		To:  2733
+		True from:  2864
+		To:  2868
+		True from:  2900
+		To:  2901
+		True from:  2903
+		To:  2924
+		True from:  2996
+		To:  3020
+		True from:  3084
+		To:  3091
+		True from:  3092
+		To:  3093
+		True from:  3111
+		To:  3167
+		True from:  3168
+		To:  3172
+		True from:  3176
+		To:  3179
+		True from:  3205
+		To:  3259
+		True from:  3287
+		To:  3313
+		True from:  3412
+		To:  3414
+		True from:  3448
+		To:  3455
+	False positives: 1695 / 0
+	True Negatives: 822 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 34342 / 0
+True Negatives: 131649 / 165991
+Errors: 0
+
+Calculating: 66.219.235.31
+	False from:  1870
+	To:  4888
+	False from:  6911
+	To:  6933
+True positives: 5539 / 8579
+False negatives: 3040 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  7070
+		True from:  13095
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 11929 / 0
+	True Negatives: 6047 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  6049
+		To end: 9587
+	False positives: 3539 / 0
+	True Negatives: 5040 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  5921
+		True from:  8940
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 9589 / 0
+	True Negatives: 3041 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1593
+		True from:  12867
+		To:  12901
+	False positives: 618 / 0
+	True Negatives: 11299 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2822
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3716 / 0
+	True Negatives: 8364 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  10961
+		True from:  10985
+		To:  11032
+		True from:  11033
+		To:  11039
+		True from:  11056
+		To end: 12922
+	False positives: 11844 / 0
+	True Negatives: 70 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  2038
+		To end: 3525
+	False positives: 1488 / 0
+	True Negatives: 1029 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2235
+		To:  2249
+	False positives: 14 / 0
+	True Negatives: 2503 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  2235
+		To:  2249
+	False positives: 14 / 0
+	True Negatives: 2503 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1010
+		True from:  1012
+		To:  1013
+		True from:  1870
+		To:  1871
+		True from:  2228
+		To:  2254
+		True from:  2689
+		To:  2710
+		True from:  3014
+		To:  3016
+		True from:  3212
+		To:  3213
+		True from:  3216
+		To:  3224
+	False positives: 61 / 0
+	True Negatives: 2456 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1013
+		True from:  2233
+		To:  2250
+	False positives: 20 / 0
+	True Negatives: 2497 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To:  3474
+		True from:  3481
+		To:  3482
+		True from:  3487
+		To end: 3525
+	False positives: 2370 / 0
+	True Negatives: 147 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 82279 / 0
+True Negatives: 83712 / 165991
+Errors: 0
+
+Calculating: 76.8.213.221
+	False from:  7070
+	To:  13095
+	False from:  16308
+	To:  16330
+True positives: 11929 / 17976
+False negatives: 6047 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1869
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5538 / 0
+	True Negatives: 3041 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  6049
+		To end: 9587
+	False positives: 3539 / 0
+	True Negatives: 5040 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  5921
+		True from:  8940
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 9589 / 0
+	True Negatives: 3041 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1595
+		True from:  12867
+		To:  12900
+	False positives: 619 / 0
+	True Negatives: 11298 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2823
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3715 / 0
+	True Negatives: 8365 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  10961
+		True from:  10985
+		To:  11029
+		True from:  11059
+		To end: 12922
+	False positives: 11832 / 0
+	True Negatives: 82 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  2038
+		To end: 3525
+	False positives: 1488 / 0
+	True Negatives: 1029 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2235
+		To:  2249
+	False positives: 14 / 0
+	True Negatives: 2503 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  2235
+		To:  2249
+	False positives: 14 / 0
+	True Negatives: 2503 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  2234
+		To:  2250
+	False positives: 16 / 0
+	True Negatives: 2501 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To:  1011
+		True from:  2234
+		To:  2250
+	False positives: 18 / 0
+	True Negatives: 2499 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2325 / 0
+	True Negatives: 192 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  2805
+		True from:  2821
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2444 / 0
+	True Negatives: 73 / 2517 
+
+False positives: 75768 / 0
+True Negatives: 80826 / 156594
+Errors: 0
+
+Calculating: 76.8.213.231
+	False from:  1870
+	To:  4888
+	False from:  6911
+	To:  6933
+True positives: 5539 / 8579
+False negatives: 3040 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  7070
+		True from:  13095
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 11929 / 0
+	True Negatives: 6047 / 17976 
+
+	Checking against: 136.36.203.65
+		True from:  6049
+		To:  8826
+		True from:  8879
+		To end: 9587
+	False positives: 3486 / 0
+	True Negatives: 5093 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  5921
+		True from:  8940
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 9589 / 0
+	True Negatives: 3041 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1593
+		True from:  9457
+		To:  9458
+		True from:  12867
+		To:  12901
+	False positives: 619 / 0
+	True Negatives: 11298 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2822
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3716 / 0
+	True Negatives: 8364 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  10961
+		True from:  10985
+		To:  11040
+		True from:  11056
+		To end: 12922
+	False positives: 11846 / 0
+	True Negatives: 68 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  2036
+		To end: 3525
+	False positives: 1490 / 0
+	True Negatives: 1027 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2234
+		To:  2249
+	False positives: 15 / 0
+	True Negatives: 2502 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  2235
+		To:  2251
+	False positives: 16 / 0
+	True Negatives: 2501 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1010
+		True from:  1059
+		To:  1063
+		True from:  1064
+		To:  1067
+		True from:  1068
+		To:  1072
+		True from:  1182
+		To:  1184
+		True from:  1185
+		To:  1188
+		True from:  1238
+		To:  1239
+		True from:  1240
+		To:  1242
+		True from:  1243
+		To:  1257
+		True from:  1549
+		To:  1550
+		True from:  1623
+		To:  1638
+		True from:  1640
+		To:  1642
+		True from:  1763
+		To:  1837
+		True from:  1839
+		To:  2114
+		True from:  2115
+		To:  2117
+		True from:  2130
+		To:  2152
+		True from:  2180
+		To:  2184
+		True from:  2187
+		To:  2325
+		True from:  2328
+		To:  2329
+		True from:  2331
+		To:  2425
+		True from:  2461
+		To:  2537
+		True from:  2546
+		To:  2547
+		True from:  2548
+		To:  2786
+		True from:  2788
+		To:  2902
+		True from:  2910
+		To:  2911
+		True from:  2914
+		To:  2922
+		True from:  2925
+		To:  2933
+		True from:  2935
+		To:  2937
+		True from:  2941
+		To:  2942
+		True from:  2946
+		To:  2955
+		True from:  2956
+		To:  2982
+		True from:  3000
+		To:  3067
+		True from:  3070
+		To:  3071
+		True from:  3073
+		To:  3075
+		True from:  3076
+		To:  3077
+		True from:  3087
+		To:  3088
+		True from:  3091
+		To:  3096
+		True from:  3099
+		To:  3110
+		True from:  3112
+		To:  3113
+		True from:  3120
+		To:  3121
+		True from:  3131
+		To:  3136
+		True from:  3137
+		To:  3138
+		True from:  3142
+		To:  3143
+		True from:  3145
+		To:  3146
+		True from:  3160
+		To:  3161
+		True from:  3162
+		To:  3169
+		True from:  3170
+		To:  3264
+		True from:  3273
+		To:  3274
+		True from:  3356
+		To:  3363
+	False positives: 1354 / 0
+	True Negatives: 1163 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  2234
+		To:  2249
+	False positives: 15 / 0
+	True Negatives: 2502 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2325 / 0
+	True Negatives: 192 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2862
+		To end: 3525
+	False positives: 2414 / 0
+	True Negatives: 103 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 83476 / 0
+True Negatives: 82515 / 165991
+Errors: 0
+
+Calculating: 136.36.203.65
+	False from:  9522
+	To:  9574
+True positives: 8527 / 8579
+False negatives: 52 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  4130
+		To:  5664
+		True from:  5684
+		To:  6030
+	False positives: 1880 / 0
+	True Negatives: 6699 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1606
+		To:  12856
+		True from:  12908
+		To end: 12925
+	False positives: 11268 / 0
+	True Negatives: 649 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1009
+		To:  2838
+		True from:  2840
+		To:  3502
+		True from:  3504
+		To:  3655
+		True from:  3661
+		To:  3711
+		True from:  3724
+		To:  3757
+		True from:  3759
+		To:  3800
+		True from:  3820
+		To:  3964
+		True from:  3968
+		To:  4029
+		True from:  4036
+		To:  4186
+		True from:  4188
+		To:  5711
+		True from:  5713
+		To:  5779
+		True from:  5794
+		To:  5829
+		True from:  5838
+		To:  5877
+		True from:  5879
+		To:  6018
+		True from:  6027
+		To:  6060
+		True from:  6062
+		To:  6223
+		True from:  6225
+		To:  6293
+		True from:  6297
+		To:  6469
+		True from:  6480
+		To:  6485
+		True from:  6493
+		To:  6620
+		True from:  6644
+		To:  6648
+		True from:  6650
+		To:  6753
+		True from:  6766
+		To:  6770
+		True from:  6772
+		To:  6842
+		True from:  6846
+		To:  6938
+		True from:  6949
+		To:  7001
+		True from:  7018
+		To end: 13088
+	False positives: 11885 / 0
+	True Negatives: 195 / 12080 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  1010
+		True from:  2769
+		To:  2793
+		True from:  2833
+		To:  2834
+		True from:  2839
+		To:  2892
+		True from:  3973
+		To:  3995
+		True from:  4006
+		To:  4013
+		True from:  10688
+		To:  10689
+		True from:  10747
+		To:  10748
+		True from:  10796
+		To:  10803
+		True from:  10957
+		To:  11057
+		True from:  11942
+		To:  11943
+		True from:  12027
+		To:  12028
+	False positives: 219 / 0
+	True Negatives: 11695 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 57352 / 0
+True Negatives: 108639 / 165991
+Errors: 0
+
+Calculating: 66.219.235.215
+	False from:  1870
+	To:  4888
+	False from:  6911
+	To:  6933
+True positives: 5539 / 8579
+False negatives: 3040 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  7070
+		True from:  13095
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 11929 / 0
+	True Negatives: 6047 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  6049
+		To end: 9587
+	False positives: 3539 / 0
+	True Negatives: 5040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  5921
+		True from:  8940
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 9589 / 0
+	True Negatives: 3041 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1594
+		True from:  9389
+		To:  9406
+		True from:  9457
+		To:  9458
+		True from:  9542
+		To:  9546
+		True from:  9547
+		To:  9549
+		True from:  12864
+		To:  12901
+	False positives: 646 / 0
+	True Negatives: 11271 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2822
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3716 / 0
+	True Negatives: 8364 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  10961
+		True from:  10985
+		To:  11032
+		True from:  11033
+		To:  11039
+		True from:  11056
+		To end: 12922
+	False positives: 11844 / 0
+	True Negatives: 70 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To:  1010
+		True from:  2037
+		To end: 3525
+	False positives: 1490 / 0
+	True Negatives: 1027 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2233
+		To:  2249
+	False positives: 16 / 0
+	True Negatives: 2501 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  2235
+		To:  2249
+	False positives: 14 / 0
+	True Negatives: 2503 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1010
+		True from:  2231
+		To:  2249
+	False positives: 19 / 0
+	True Negatives: 2498 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  2230
+		To:  2250
+		True from:  3357
+		To:  3367
+		True from:  3368
+		To:  3369
+		True from:  3370
+		To:  3372
+		True from:  3415
+		To:  3417
+		True from:  3421
+		To:  3423
+		True from:  3432
+		To:  3436
+	False positives: 41 / 0
+	True Negatives: 2476 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To end: 3525
+	False positives: 2382 / 0
+	True Negatives: 135 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 82302 / 0
+True Negatives: 83689 / 165991
+Errors: 0
+
+Calculating: byu.edu
+True positives: 12630 / 12630
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To end: 9587
+	False positives: 8418 / 0
+	True Negatives: 161 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To end: 18984
+	False positives: 17976 / 0
+	True Negatives: 0 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  6048
+		To:  6235
+		True from:  6238
+		To:  6702
+		True from:  6703
+		To:  7024
+		True from:  7027
+		To:  7029
+		True from:  7035
+		To:  8821
+		True from:  8906
+		To end: 9587
+	False positives: 3442 / 0
+	True Negatives: 5137 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1592
+		True from:  12866
+		To:  12901
+	False positives: 618 / 0
+	True Negatives: 11299 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2823
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9080
+		True from:  9107
+		To:  9197
+	False positives: 3707 / 0
+	True Negatives: 8373 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  9364
+		True from:  9372
+		To:  10966
+		True from:  10985
+		To:  11032
+		True from:  11033
+		To:  11039
+		True from:  11056
+		To end: 12922
+	False positives: 11841 / 0
+	True Negatives: 73 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  2761
+		True from:  2842
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2379 / 0
+	True Negatives: 138 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To:  1015
+		True from:  1016
+		To:  1017
+		True from:  1024
+		To:  1025
+		True from:  1036
+		To:  1037
+		True from:  1041
+		To:  1228
+		True from:  1234
+		To:  1526
+		True from:  1528
+		To:  1535
+		True from:  1540
+		To:  1542
+		True from:  1550
+		To:  1693
+		True from:  1711
+		To:  1744
+		True from:  1745
+		To:  1794
+		True from:  1800
+		To:  2083
+		True from:  2085
+		To:  2524
+		True from:  2532
+		To:  2709
+		True from:  2712
+		To:  2714
+		True from:  2729
+		To:  2932
+		True from:  2941
+		To:  2978
+		True from:  2990
+		To:  3134
+		True from:  3136
+		To:  3322
+		True from:  3333
+		To:  3398
+		True from:  3399
+		To:  3466
+		True from:  3470
+		To:  3475
+		True from:  3477
+		To:  3478
+		True from:  3481
+		To end: 3525
+	False positives: 2376 / 0
+	True Negatives: 141 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2794
+		True from:  2814
+		To end: 3525
+	False positives: 2497 / 0
+	True Negatives: 20 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  1469
+		True from:  1478
+		To:  1483
+		True from:  1485
+		To:  2759
+		True from:  2847
+		To:  3420
+		True from:  3421
+		To:  3428
+		True from:  3437
+		To:  3454
+		True from:  3512
+		To end: 3525
+	False positives: 2350 / 0
+	True Negatives: 167 / 2517 
+
+False positives: 109788 / 0
+True Negatives: 52152 / 161940
+Errors: 0
+
+Calculating: 136.36.62.167
+	False from:  1604
+	To:  1617
+	False from:  4204
+	To:  4224
+	False from:  7802
+	To:  7822
+	False from:  8350
+	To:  8377
+	False from:  8917
+	To:  8948
+	False from:  9003
+	To:  9022
+	False from:  10422
+	To:  10513
+	False from:  10848
+	To:  10945
+	False from:  12871
+	To:  12906
+True positives: 11564 / 11917
+False negatives: 353 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  4129
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  7030
+		To:  7121
+	False positives: 1972 / 0
+	True Negatives: 6607 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5012
+		To:  6884
+	False positives: 5851 / 0
+	True Negatives: 12125 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  4464
+		True from:  4484
+		To:  5011
+		True from:  5039
+		To:  5578
+		True from:  5609
+		To:  5665
+		True from:  5683
+		To:  9523
+		True from:  9564
+		To end: 9587
+	False positives: 8441 / 0
+	True Negatives: 138 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5828
+	False positives: 4816 / 0
+	True Negatives: 7814 / 12630 
+
+	Checking against: 97.117.140.93
+		True from:  5461
+		To:  5521
+		True from:  5528
+		To:  5932
+		True from:  6019
+		To:  6057
+		True from:  6060
+		To:  6063
+		True from:  6081
+		To:  6082
+		True from:  6090
+		To:  6091
+		True from:  6103
+		To:  6129
+		True from:  6155
+		To:  6159
+		True from:  6193
+		To:  6194
+		True from:  6219
+		To:  6340
+		True from:  6364
+		To:  6384
+		True from:  6457
+		To:  6461
+		True from:  6463
+		To:  6464
+		True from:  6505
+		To:  6509
+		True from:  6510
+		To:  6561
+		True from:  6584
+		To:  6608
+		True from:  6622
+		To:  6623
+		True from:  6631
+		To:  6750
+		True from:  6755
+		To:  7052
+		True from:  7055
+		To:  7061
+		True from:  7065
+		To:  7091
+		True from:  8828
+		To:  9162
+		True from:  9186
+		To:  9196
+	False positives: 1556 / 0
+	True Negatives: 10524 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1012
+		To:  1164
+		True from:  1181
+		To:  1565
+		True from:  1571
+		To:  1582
+		True from:  1584
+		To:  1587
+		True from:  1588
+		To:  1594
+		True from:  1606
+		To:  1782
+		True from:  10331
+		To:  10362
+		True from:  10383
+		To:  10471
+		True from:  10990
+		To:  11024
+	False positives: 885 / 0
+	True Negatives: 11029 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  2910
+		To:  2931
+		True from:  2946
+		To:  2950
+		True from:  2951
+		To:  2953
+		True from:  2956
+		To:  3038
+		True from:  3049
+		To:  3213
+		True from:  3214
+		To:  3218
+		True from:  3247
+		To:  3255
+		True from:  3269
+		To:  3340
+		True from:  3364
+		To end: 3525
+	False positives: 518 / 0
+	True Negatives: 1999 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  1176
+		True from:  1205
+		To:  1206
+		True from:  1207
+		To:  1306
+		True from:  1310
+		To:  1337
+		True from:  1342
+		To:  1344
+		True from:  1353
+		To:  1456
+		True from:  1466
+		To:  1477
+		True from:  1478
+		To:  1494
+		True from:  1521
+		To:  1639
+		True from:  1641
+		To:  1643
+		True from:  1644
+		To:  1705
+		True from:  1734
+		To:  1909
+		True from:  1912
+		To:  1918
+		True from:  1919
+		To:  1929
+		True from:  1933
+		To:  1939
+		True from:  1942
+		To:  1970
+		True from:  2012
+		To:  2014
+		True from:  2015
+		To:  2091
+		True from:  2117
+		To:  2157
+		True from:  2166
+		To:  2168
+		True from:  2169
+		To:  2198
+		True from:  2206
+		To:  2218
+		True from:  2219
+		To:  2220
+		True from:  2222
+		To:  2224
+		True from:  2239
+		To:  2268
+		True from:  2271
+		To:  2278
+		True from:  2300
+		To:  2340
+		True from:  2345
+		To:  2353
+		True from:  2380
+		To:  2397
+		True from:  2399
+		To:  2470
+		True from:  2492
+		To:  2584
+		True from:  2595
+		To:  2597
+		True from:  2602
+		To:  2632
+		True from:  2644
+		To:  2867
+		True from:  2882
+		To:  2888
+		True from:  2914
+		To:  2916
+		True from:  2922
+		To:  3168
+		True from:  3171
+		To:  3199
+		True from:  3223
+		To:  3269
+		True from:  3276
+		To:  3287
+		True from:  3293
+		To:  3300
+		True from:  3304
+		To:  3329
+		True from:  3332
+		To:  3338
+		True from:  3349
+		To:  3441
+		True from:  3515
+		To:  3522
+		True from:  3525
+		To end: 3525
+	False positives: 1992 / 0
+	True Negatives: 525 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1072
+	False positives: 63 / 0
+	True Negatives: 2454 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  2772
+		To:  2832
+	False positives: 60 / 0
+	True Negatives: 2457 / 2517 
+
+False positives: 46627 / 0
+True Negatives: 116026 / 162653
+Errors: 0
+
+Calculating: 97.117.140.93
+True positives: 12080 / 12080
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1777
+		True from:  8889
+		To:  8890
+	False positives: 769 / 0
+	True Negatives: 7810 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8820
+		True from:  8927
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8338 / 0
+	True Negatives: 241 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  6884
+	False positives: 5852 / 0
+	True Negatives: 12124 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  4464
+		True from:  4484
+		To:  5011
+		True from:  5039
+		To:  5585
+		True from:  5597
+		To end: 9587
+	False positives: 8519 / 0
+	True Negatives: 60 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5828
+	False positives: 4816 / 0
+	True Negatives: 7814 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  4205
+		True from:  4224
+		To:  8353
+		True from:  8372
+		To:  9368
+		True from:  9387
+		To end: 12925
+	False positives: 11860 / 0
+	True Negatives: 57 / 11917 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To end: 12922
+	False positives: 11914 / 0
+	True Negatives: 0 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1015
+		True from:  1016
+		To:  1018
+		True from:  1024
+		To:  1026
+		True from:  1028
+		To:  1032
+		True from:  1035
+		To:  1038
+		True from:  1039
+		To:  1060
+		True from:  1062
+		To:  1065
+		True from:  1066
+		To:  1069
+		True from:  1079
+		To:  1104
+		True from:  1112
+		To:  1113
+		True from:  1176
+		To:  1206
+		True from:  1269
+		To:  1311
+		True from:  1358
+		To:  1405
+		True from:  1447
+		To:  1511
+		True from:  1537
+		To:  1540
+		True from:  1546
+		To:  1587
+		True from:  1593
+		To:  1628
+		True from:  1632
+		To:  1711
+		True from:  1723
+		To:  1822
+		True from:  1823
+		To:  1825
+		True from:  1849
+		To:  1867
+		True from:  1925
+		To:  1962
+		True from:  1967
+		To:  1969
+		True from:  2007
+		To:  2056
+		True from:  2115
+		To:  2116
+		True from:  2118
+		To:  2168
+		True from:  2193
+		To:  2223
+		True from:  2281
+		To:  2322
+		True from:  2372
+		To:  2374
+		True from:  2376
+		To:  2377
+		True from:  2378
+		To:  2452
+		True from:  2539
+		To:  2540
+		True from:  2541
+		To:  2550
+		True from:  2581
+		To:  2583
+		True from:  2587
+		To:  2647
+		True from:  2744
+		To:  2746
+		True from:  2784
+		To:  2844
+		True from:  2845
+		To:  2846
+		True from:  2871
+		To:  2880
+		True from:  2882
+		To end: 3525
+	False positives: 1604 / 0
+	True Negatives: 913 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1224
+		True from:  1227
+		To:  1229
+		True from:  1230
+		To:  1299
+		True from:  1304
+		To:  1321
+		True from:  1323
+		To:  1327
+		True from:  1331
+		To:  1341
+		True from:  1345
+		To:  1388
+		True from:  1419
+		To:  1457
+		True from:  1492
+		To:  1528
+		True from:  1533
+		To:  1560
+		True from:  1569
+		To:  1631
+		True from:  1640
+		To:  1642
+		True from:  1649
+		To:  1729
+		True from:  1731
+		To:  1744
+		True from:  1844
+		To:  1845
+		True from:  1849
+		To:  1850
+		True from:  1858
+		To:  1859
+		True from:  1874
+		To:  1882
+		True from:  1983
+		To:  1984
+		True from:  2343
+		To:  2349
+		True from:  2563
+		To:  2586
+		True from:  2624
+		To:  2625
+		True from:  2627
+		To:  2634
+		True from:  2881
+		To:  2882
+		True from:  2950
+		To:  2955
+		True from:  2979
+		To:  2999
+		True from:  3039
+		To:  3040
+		True from:  3042
+		To:  3044
+		True from:  3046
+		To:  3058
+		True from:  3092
+		To:  3117
+		True from:  3120
+		To:  3123
+		True from:  3171
+		To:  3173
+		True from:  3186
+		To:  3190
+		True from:  3203
+		To:  3209
+		True from:  3215
+		To:  3229
+		True from:  3233
+		To:  3235
+		True from:  3236
+		To:  3238
+		True from:  3291
+		To:  3454
+		True from:  3512
+		To end: 3525
+	False positives: 943 / 0
+	True Negatives: 1574 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 93760 / 0
+True Negatives: 68730 / 162490
+Errors: 0
+
+Calculating: 72.160.10.9
+True positives: 12080 / 12080
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1789
+		To:  8489
+		True from:  8495
+		To:  8752
+		True from:  8753
+		To:  8771
+		True from:  8774
+		To:  8817
+		True from:  8819
+		To:  8868
+		True from:  8905
+		To:  8913
+		True from:  8923
+		To:  8925
+		True from:  8934
+		To end: 9587
+	False positives: 7731 / 0
+	True Negatives: 848 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  8834
+		To:  8913
+		True from:  9529
+		To:  9561
+	False positives: 111 / 0
+	True Negatives: 8468 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1010
+		True from:  1790
+		To:  8871
+		True from:  8899
+		To end: 9587
+	False positives: 7771 / 0
+	True Negatives: 808 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  1011
+		True from:  6897
+		To:  15391
+		True from:  15413
+		To:  16087
+	False positives: 9170 / 0
+	True Negatives: 8806 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1790
+		To:  8869
+		True from:  8908
+		To end: 9587
+	False positives: 7759 / 0
+	True Negatives: 820 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  8665
+		True from:  8674
+		To end: 9587
+	False positives: 8570 / 0
+	True Negatives: 9 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1790
+		To:  8873
+		True from:  8905
+		To end: 9587
+	False positives: 7766 / 0
+	True Negatives: 813 / 8579 
+
+	Checking against: byu.edu
+		True from:  5843
+		To:  5922
+		True from:  5930
+		To:  6096
+		True from:  6099
+		To:  6164
+		True from:  6170
+		To:  6323
+		True from:  6325
+		To:  6980
+		True from:  6984
+		To:  6989
+		True from:  6990
+		To:  6999
+		True from:  7002
+		To:  7407
+		True from:  7433
+		To:  7565
+		True from:  7584
+		To:  7787
+		True from:  7789
+		To:  7790
+		True from:  7817
+		To:  7818
+		True from:  7820
+		To:  8488
+		True from:  8511
+		To:  8515
+		True from:  8518
+		To:  9302
+		True from:  9306
+		To:  9819
+		True from:  9833
+		To:  10080
+		True from:  10101
+		To:  10613
+		True from:  10624
+		To:  10627
+		True from:  10628
+		To:  10950
+		True from:  10971
+		To:  11488
+		True from:  11499
+		To:  11699
+		True from:  11710
+		To:  11763
+		True from:  11772
+		To:  11773
+		True from:  11785
+		To:  12786
+		True from:  12795
+		To:  13170
+		True from:  13188
+		To end: 13638
+	False positives: 7525 / 0
+	True Negatives: 5105 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1606
+		To:  12375
+		True from:  12391
+		To end: 12925
+	False positives: 11304 / 0
+	True Negatives: 613 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To end: 12922
+	False positives: 11914 / 0
+	True Negatives: 0 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1009
+		To:  1054
+	False positives: 45 / 0
+	True Negatives: 2472 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To:  1054
+	False positives: 45 / 0
+	True Negatives: 2472 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  2772
+		To:  2851
+		True from:  3467
+		To:  3498
+	False positives: 110 / 0
+	True Negatives: 2407 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  2771
+		To:  2851
+		True from:  3467
+		To:  3498
+	False positives: 111 / 0
+	True Negatives: 2406 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  2772
+		To:  2848
+	False positives: 76 / 0
+	True Negatives: 2441 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 102156 / 0
+True Negatives: 60334 / 162490
+Errors: 0
+
+Calculating: 75.174.31.107
+True positives: 11914 / 11914
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4889
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5538 / 0
+	True Negatives: 3041 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  7070
+		True from:  13094
+		To:  16307
+		True from:  16330
+		To:  17358
+		True from:  17359
+		To end: 18984
+	False positives: 11905 / 0
+	True Negatives: 6071 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  1010
+		True from:  6045
+		To end: 9587
+	False positives: 3544 / 0
+	True Negatives: 5035 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5850
+		True from:  5854
+		To:  5912
+		True from:  8944
+		To:  9087
+		True from:  9093
+		To:  9094
+		True from:  9129
+		To:  9143
+		True from:  9169
+		To:  9186
+		True from:  9188
+		To:  9197
+		True from:  9203
+		To:  9259
+		True from:  9261
+		To:  9277
+		True from:  9279
+		To:  9282
+		True from:  9316
+		To:  9341
+		True from:  9377
+		To:  9440
+		True from:  9442
+		To:  9457
+		True from:  9464
+		To:  9467
+		True from:  9472
+		To:  9507
+		True from:  9512
+		To:  9521
+		True from:  9526
+		To:  9552
+		True from:  9554
+		To:  9557
+		True from:  9558
+		To:  9668
+		True from:  9693
+		To:  9707
+		True from:  9710
+		To:  9712
+		True from:  9724
+		To:  9730
+		True from:  9731
+		To:  9734
+		True from:  9736
+		To:  9774
+		True from:  9841
+		To:  9860
+		True from:  9861
+		To:  9867
+		True from:  9870
+		To:  9872
+		True from:  9882
+		To:  9940
+		True from:  9942
+		To:  10037
+		True from:  10060
+		To:  10179
+		True from:  10196
+		To:  10273
+		True from:  10328
+		To:  10348
+		True from:  10372
+		To:  10373
+		True from:  10383
+		To:  10413
+		True from:  10428
+		To:  10454
+		True from:  10457
+		To:  10458
+		True from:  10469
+		To:  10474
+		True from:  10487
+		To:  10495
+		True from:  10498
+		To:  10533
+		True from:  10537
+		To:  10584
+		True from:  10656
+		To:  10686
+		True from:  10704
+		To:  10746
+		True from:  10756
+		To:  10757
+		True from:  10767
+		To:  10768
+		True from:  10770
+		To:  10775
+		True from:  10783
+		To:  10804
+		True from:  10805
+		To:  10808
+		True from:  10826
+		To:  10843
+		True from:  10858
+		To:  10860
+		True from:  10862
+		To:  10908
+		True from:  10914
+		To:  10916
+		True from:  10942
+		To:  10943
+		True from:  10987
+		To:  11016
+		True from:  11017
+		To:  11071
+		True from:  11091
+		To:  11156
+		True from:  11192
+		To:  11228
+		True from:  11231
+		To:  11262
+		True from:  11277
+		To:  11294
+		True from:  11315
+		To:  11341
+		True from:  11345
+		To:  11349
+		True from:  11361
+		To:  11372
+		True from:  11374
+		To:  11377
+		True from:  11379
+		To:  11381
+		True from:  11395
+		To:  11452
+		True from:  11536
+		To:  11537
+		True from:  11542
+		To:  11550
+		True from:  11553
+		To:  11557
+		True from:  11564
+		To:  11580
+		True from:  11581
+		To:  11588
+		True from:  11597
+		To:  11599
+		True from:  11600
+		To:  11601
+		True from:  11612
+		To:  11614
+		True from:  11623
+		To:  11634
+		True from:  11638
+		To:  11639
+		True from:  11640
+		To:  11642
+		True from:  11655
+		To:  11696
+		True from:  11697
+		To:  11699
+		True from:  11710
+		To:  11716
+		True from:  11720
+		To:  11761
+		True from:  11799
+		To:  11837
+		True from:  11838
+		To:  11846
+		True from:  11853
+		To:  11857
+		True from:  11865
+		To:  11868
+		True from:  11870
+		To:  11876
+		True from:  11880
+		To:  11891
+		True from:  11892
+		To:  11894
+		True from:  11895
+		To:  11898
+		True from:  11900
+		To:  11910
+		True from:  11946
+		To:  12038
+		True from:  12046
+		To:  12104
+		True from:  12109
+		To:  12125
+		True from:  12128
+		To:  12132
+		True from:  12135
+		To:  12139
+		True from:  12143
+		To:  12144
+		True from:  12148
+		To:  12165
+		True from:  12206
+		To:  12210
+		True from:  12212
+		To:  12231
+		True from:  12258
+		To:  12312
+		True from:  12327
+		To:  12330
+		True from:  12334
+		To:  12341
+		True from:  12354
+		To:  12389
+		True from:  12399
+		To:  12421
+		True from:  12429
+		To:  12480
+		True from:  12575
+		To:  12579
+		True from:  12589
+		To:  12592
+		True from:  12593
+		To:  12594
+		True from:  12620
+		To:  12624
+		True from:  12655
+		To:  12672
+		True from:  12697
+		To:  12752
+		True from:  12767
+		To:  12772
+		True from:  12810
+		To:  12814
+		True from:  12824
+		To:  12861
+		True from:  12885
+		To:  12901
+		True from:  12922
+		To:  12961
+		True from:  12966
+		To:  12972
+		True from:  12977
+		To:  12978
+		True from:  12984
+		To:  12992
+		True from:  13016
+		To:  13025
+		True from:  13027
+		To:  13028
+		True from:  13029
+		To:  13033
+		True from:  13049
+		To:  13053
+		True from:  13065
+		To:  13106
+		True from:  13107
+		To:  13116
+		True from:  13117
+		To:  13154
+		True from:  13158
+		To:  13159
+		True from:  13190
+		To:  13192
+		True from:  13194
+		To:  13251
+		True from:  13258
+		To:  13266
+		True from:  13268
+		To:  13342
+		True from:  13374
+		To:  13402
+		True from:  13425
+		To:  13453
+		True from:  13482
+		To:  13487
+		True from:  13493
+		To:  13501
+		True from:  13563
+		To:  13576
+		True from:  13600
+		To:  13611
+	False positives: 7719 / 0
+	True Negatives: 4911 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  4205
+		True from:  4224
+		To:  6001
+		True from:  6010
+		To:  6011
+		True from:  6017
+		To:  6034
+		True from:  6036
+		To:  6074
+		True from:  6075
+		To:  6076
+		True from:  6089
+		To:  6113
+		True from:  6115
+		To:  6127
+		True from:  6135
+		To:  6136
+		True from:  6163
+		To:  6168
+		True from:  6169
+		To:  6170
+		True from:  6180
+		To:  6188
+		True from:  6194
+		To:  6362
+		True from:  6363
+		To:  6366
+		True from:  6382
+		To:  6391
+		True from:  6393
+		To:  6396
+		True from:  6422
+		To:  6853
+		True from:  6857
+		To:  6867
+		True from:  6871
+		To:  6912
+		True from:  6919
+		To:  6921
+		True from:  6926
+		To:  6927
+		True from:  6931
+		To:  8353
+		True from:  8371
+		To:  8922
+		True from:  8946
+		To end: 12925
+	False positives: 11702 / 0
+	True Negatives: 215 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  2233
+		To:  2250
+	False positives: 17 / 0
+	True Negatives: 2500 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  2228
+		To:  2249
+		True from:  3290
+		To end: 3525
+	False positives: 257 / 0
+	True Negatives: 2260 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3464
+		True from:  3503
+		To end: 3525
+	False positives: 2344 / 0
+	True Negatives: 173 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 114445 / 0
+True Negatives: 48211 / 162656
+Errors: 0
+
+Calculating: 69.73.60.141
+	False from:  5789
+	To:  5808
+	False from:  9188
+	To:  9212
+True positives: 11735 / 11778
+False negatives: 43 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+	False positives: 0 / 0
+	True Negatives: 11917 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 0 / 0
+True Negatives: 162792 / 162792
+Errors: 0
+
+Calculating: 24.49.163.147
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  8246
+		True from:  8250
+		To:  8665
+		True from:  8678
+		To:  9110
+		True from:  9117
+		To:  9124
+		True from:  9127
+		To:  9130
+		True from:  9132
+		To:  9142
+		True from:  9147
+		To end: 9587
+	False positives: 8545 / 0
+	True Negatives: 34 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1606
+		To:  9861
+		True from:  9863
+		To:  9915
+		True from:  9916
+		To:  10495
+		True from:  10502
+		To:  10721
+		True from:  10727
+		To:  10854
+		True from:  10879
+		To:  10889
+		True from:  10891
+		To:  10901
+		True from:  10913
+		To:  10921
+		True from:  10924
+		To end: 12925
+	False positives: 11262 / 0
+	True Negatives: 655 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  2826
+		To:  2834
+		True from:  2848
+		To:  2876
+		True from:  2877
+		To:  3072
+		True from:  3081
+		To:  3082
+		True from:  3095
+		To:  3252
+		True from:  3253
+		To:  3258
+		True from:  3259
+		To:  3266
+		True from:  3267
+		To:  3270
+		True from:  3273
+		To:  3321
+		True from:  3324
+		To:  3336
+		True from:  3345
+		To:  3481
+		True from:  3513
+		To:  3517
+		True from:  3543
+		To:  3595
+		True from:  3598
+		To:  3611
+		True from:  3613
+		To:  3648
+		True from:  3675
+		To:  3744
+		True from:  3768
+		To:  3806
+		True from:  3812
+		To:  3847
+		True from:  3849
+		To:  3953
+		True from:  3986
+		To:  4020
+		True from:  4023
+		To:  4026
+		True from:  4036
+		To:  4102
+		True from:  4107
+		To:  4182
+		True from:  4183
+		To:  4187
+		True from:  4188
+		To:  4192
+		True from:  4204
+		To:  4209
+		True from:  4210
+		To:  4217
+		True from:  4225
+		To:  4307
+		True from:  4331
+		To:  4355
+		True from:  4361
+		To:  4387
+		True from:  5461
+		To:  5594
+		True from:  5601
+		To:  5772
+		True from:  5788
+		To:  5831
+		True from:  5853
+		To:  5860
+		True from:  5861
+		To:  5862
+		True from:  5889
+		To:  5931
+		True from:  6029
+		To:  6051
+		True from:  6066
+		To:  6098
+		True from:  6099
+		To:  6102
+		True from:  6106
+		To:  6212
+		True from:  6213
+		To:  6219
+		True from:  6225
+		To:  6229
+		True from:  6236
+		To:  6276
+		True from:  6290
+		To:  6376
+		True from:  6378
+		To:  6452
+		True from:  6468
+		To:  6471
+		True from:  6498
+		To:  6501
+		True from:  6503
+		To:  6588
+		True from:  6631
+		To:  6633
+		True from:  6634
+		To:  6663
+		True from:  6675
+		To:  6685
+		True from:  6687
+		To:  6721
+		True from:  6729
+		To:  6730
+		True from:  6745
+		To:  6748
+		True from:  6756
+		To:  6881
+		True from:  6883
+		To:  6887
+		True from:  6904
+		To:  6908
+		True from:  6910
+		To:  6927
+		True from:  6932
+		To:  6934
+		True from:  6935
+		To:  6938
+		True from:  6949
+		To:  7092
+		True from:  8827
+		To:  8873
+		True from:  8884
+		To:  8914
+		True from:  8918
+		To:  8946
+		True from:  8947
+		To:  8950
+		True from:  8963
+		To:  9037
+		True from:  9038
+		To:  9194
+	False positives: 2855 / 0
+	True Negatives: 9225 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  1793
+		True from:  1967
+		To:  1971
+		True from:  1973
+		To:  1975
+		True from:  2103
+		To:  2109
+		True from:  2113
+		To:  2116
+		True from:  2215
+		To:  2227
+		True from:  2232
+		To:  2234
+		True from:  2235
+		To:  2238
+		True from:  2418
+		To:  2423
+		True from:  2737
+		To:  2738
+		True from:  2829
+		To:  2830
+		True from:  2882
+		To:  2885
+		True from:  2898
+		To:  2902
+		True from:  2951
+		To:  2952
+		True from:  2953
+		To:  2958
+		True from:  3093
+		To:  3096
+		True from:  3100
+		To:  3113
+		True from:  3121
+		To:  3124
+		True from:  3170
+		To:  3202
+		True from:  3359
+		To:  3363
+		True from:  3365
+		To:  3369
+		True from:  3403
+		To:  3425
+		True from:  3791
+		To:  3797
+		True from:  3851
+		To:  3857
+		True from:  3860
+		To:  3864
+		True from:  3909
+		To:  3910
+		True from:  3918
+		To:  3919
+		True from:  3929
+		To:  3932
+		True from:  4066
+		To:  4069
+		True from:  4070
+		To:  4071
+		True from:  4073
+		To:  4080
+		True from:  4181
+		To:  4183
+		True from:  4186
+		To:  4191
+		True from:  4192
+		To:  4198
+		True from:  4389
+		To:  4390
+		True from:  4391
+		To:  4395
+		True from:  4407
+		To:  4411
+		True from:  4475
+		To:  4477
+		True from:  4479
+		To:  4480
+		True from:  4483
+		To:  4487
+		True from:  4563
+		To:  4580
+		True from:  4621
+		To:  4627
+		True from:  4632
+		To:  4636
+		True from:  4691
+		To:  4693
+		True from:  4695
+		To:  4705
+		True from:  4708
+		To:  4711
+		True from:  4712
+		To:  4720
+		True from:  4894
+		To:  4895
+		True from:  4899
+		To:  4900
+		True from:  4901
+		To:  4903
+		True from:  4904
+		To:  4907
+		True from:  5489
+		To:  5490
+		True from:  5659
+		To:  5660
+		True from:  5901
+		To:  5902
+		True from:  6109
+		To:  6131
+		True from:  6189
+		To:  6205
+		True from:  6240
+		To:  6252
+		True from:  6254
+		To:  6256
+		True from:  6291
+		To:  6292
+		True from:  6303
+		To:  6306
+		True from:  6339
+		To:  6351
+		True from:  6354
+		To:  6374
+		True from:  6375
+		To:  6380
+		True from:  6447
+		To:  6453
+		True from:  6478
+		To:  6480
+		True from:  6486
+		To:  6488
+		True from:  6552
+		To:  6557
+		True from:  6605
+		To:  6608
+		True from:  6610
+		To:  6618
+		True from:  6640
+		To:  6660
+		True from:  6680
+		To:  6681
+		True from:  6683
+		To:  6691
+		True from:  6798
+		To:  6804
+		True from:  6837
+		To:  6853
+		True from:  6857
+		To:  6860
+		True from:  6946
+		To:  6948
+		True from:  6979
+		To:  6980
+		True from:  7204
+		To:  7239
+		True from:  7241
+		To:  7242
+		True from:  7291
+		To:  7293
+		True from:  7310
+		To:  7319
+		True from:  7324
+		To:  7353
+		True from:  7360
+		To:  7369
+		True from:  7370
+		To:  7386
+		True from:  7472
+		To:  7473
+		True from:  7476
+		To:  7500
+		True from:  7535
+		To:  7536
+		True from:  7541
+		To:  7546
+		True from:  7578
+		To:  7596
+		True from:  7597
+		To:  7600
+		True from:  7647
+		To:  7671
+		True from:  7674
+		To:  7684
+		True from:  7686
+		To:  7702
+		True from:  7750
+		To:  7751
+		True from:  7753
+		To:  7755
+		True from:  7820
+		To:  7824
+		True from:  7864
+		To:  7866
+		True from:  7871
+		To:  7872
+		True from:  7873
+		To:  7875
+		True from:  7891
+		To:  7928
+		True from:  7929
+		To:  7936
+		True from:  7964
+		To:  7971
+		True from:  7974
+		To:  7975
+		True from:  7986
+		To:  7992
+		True from:  7994
+		To:  7996
+		True from:  8000
+		To:  8001
+		True from:  8003
+		To:  8004
+		True from:  8043
+		To:  8062
+		True from:  8094
+		To:  8101
+		True from:  8130
+		To:  8131
+		True from:  8132
+		To:  8134
+		True from:  8137
+		To:  8145
+		True from:  8148
+		To:  8159
+		True from:  8169
+		To:  8171
+		True from:  8187
+		To:  8189
+		True from:  8281
+		To:  8295
+		True from:  8364
+		To:  8365
+		True from:  8372
+		To:  8373
+		True from:  8374
+		To:  8378
+		True from:  8404
+		To:  8416
+		True from:  8420
+		To:  8421
+		True from:  8541
+		To:  8546
+		True from:  8548
+		To:  8554
+		True from:  8556
+		To:  8559
+		True from:  8674
+		To:  8676
+		True from:  8677
+		To:  8682
+		True from:  8689
+		To:  8691
+		True from:  8737
+		To:  8746
+		True from:  8855
+		To:  8856
+		True from:  8857
+		To:  8858
+		True from:  8870
+		To:  8871
+		True from:  8882
+		To:  8891
+		True from:  8991
+		To:  8992
+		True from:  8993
+		To:  8997
+		True from:  9199
+		To:  9205
+		True from:  9515
+		To:  9520
+		True from:  9522
+		To:  9550
+		True from:  9964
+		To:  9965
+		True from:  9968
+		To:  9969
+		True from:  10322
+		To:  10480
+		True from:  10745
+		To:  10746
+		True from:  10824
+		To:  10827
+		True from:  10936
+		To:  10937
+		True from:  10942
+		To:  10956
+		True from:  10988
+		To:  11043
+		True from:  11044
+		To:  11752
+		True from:  11763
+		To:  11981
+		True from:  12007
+		To:  12043
+		True from:  12078
+		To:  12079
+		True from:  12081
+		To:  12109
+		True from:  12110
+		To:  12113
+		True from:  12147
+		To:  12155
+		True from:  12194
+		To:  12197
+		True from:  12200
+		To:  12219
+		True from:  12221
+		To:  12223
+		True from:  12227
+		To:  12228
+		True from:  12229
+		To:  12245
+		True from:  12560
+		To:  12561
+		True from:  12654
+		To:  12663
+		True from:  12805
+		To:  12814
+		True from:  12849
+		To:  12852
+		True from:  12920
+		To:  12921
+	False positives: 2964 / 0
+	True Negatives: 8950 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To:  2025
+	False positives: 958 / 0
+	True Negatives: 1559 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To end: 3525
+	False positives: 2477 / 0
+	True Negatives: 40 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To:  2365
+		True from:  2366
+		To end: 3525
+	False positives: 2476 / 0
+	True Negatives: 41 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  2108
+		True from:  2109
+		To:  2221
+		True from:  2262
+		To:  2358
+		True from:  2361
+		To:  2362
+		True from:  2374
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To:  1787
+		True from:  1798
+		To:  1922
+		True from:  1928
+		To:  1937
+		True from:  1943
+		To:  2220
+		True from:  2267
+		To:  2689
+		True from:  2692
+		To:  2700
+		True from:  2702
+		To:  2705
+		True from:  2706
+		To:  2707
+		True from:  2710
+		To:  3281
+	False positives: 2193 / 0
+	True Negatives: 324 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  1022
+		True from:  1024
+		To:  1029
+		True from:  1052
+		To:  1170
+		True from:  1172
+		To:  1220
+		True from:  1235
+		To:  1239
+		True from:  1241
+		To:  1242
+		True from:  1243
+		To:  1256
+		True from:  1269
+		To:  1273
+		True from:  1274
+		To:  1332
+		True from:  1359
+		To:  1360
+		True from:  1361
+		To:  1577
+		True from:  1579
+		To:  1581
+		True from:  1605
+		To:  1739
+		True from:  1766
+		To:  1776
+		True from:  1779
+		To:  1797
+		True from:  1798
+		To:  1799
+		True from:  1824
+		To:  1885
+		True from:  1944
+		To:  1950
+		True from:  1952
+		To:  1954
+		True from:  1956
+		To:  1992
+		True from:  1997
+		To:  2070
+		True from:  2095
+		To:  2098
+		True from:  2102
+		To:  2105
+		True from:  2132
+		To:  2163
+		True from:  2164
+		To:  2166
+		True from:  2186
+		To:  2269
+		True from:  2279
+		To:  2280
+		True from:  2283
+		To:  2292
+		True from:  2293
+		To:  2297
+		True from:  2321
+		To:  2323
+		True from:  2324
+		To:  2346
+		True from:  2347
+		To:  2351
+		True from:  2364
+		To:  2404
+		True from:  2407
+		To:  2427
+		True from:  2428
+		To:  2436
+		True from:  2440
+		To:  2513
+		True from:  2523
+		To:  2526
+		True from:  2534
+		To:  2549
+		True from:  2560
+		To:  2564
+		True from:  2573
+		To:  2646
+		True from:  2648
+		To:  2808
+		True from:  2832
+		To:  2833
+		True from:  2859
+		To:  2872
+		True from:  2874
+		To:  2882
+		True from:  2934
+		To:  2961
+		True from:  2971
+		To:  2981
+		True from:  2983
+		To:  3056
+		True from:  3060
+		To:  3094
+		True from:  3102
+		To:  3154
+		True from:  3166
+		To:  3200
+		True from:  3201
+		To:  3306
+		True from:  3309
+		To:  3312
+		True from:  3317
+		To:  3319
+		True from:  3321
+		To:  3324
+		True from:  3355
+		To:  3387
+		True from:  3394
+		To:  3396
+		True from:  3399
+		To end: 3525
+	False positives: 1910 / 0
+	True Negatives: 607 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 40617 / 0
+True Negatives: 131436 / 172053
+Errors: 0
+
+Calculating: 216.169.95.224
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8820
+		True from:  8927
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8338 / 0
+	True Negatives: 241 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  6884
+	False positives: 5852 / 0
+	True Negatives: 12124 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5828
+	False positives: 4816 / 0
+	True Negatives: 7814 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1604
+		True from:  1617
+		To:  4205
+		True from:  4224
+		To:  10856
+		True from:  10873
+		To end: 12925
+	False positives: 11868 / 0
+	True Negatives: 49 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2823
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3715 / 0
+	True Negatives: 8365 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  5317
+		True from:  5345
+		To:  9364
+		True from:  9372
+		To:  10961
+		True from:  10985
+		To:  11039
+		True from:  11056
+		To end: 12922
+	False positives: 11837 / 0
+	True Negatives: 77 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1020
+		To:  1023
+		True from:  1024
+		To:  1025
+		True from:  1028
+		To:  1030
+		True from:  1033
+		To:  1039
+	False positives: 12 / 0
+	True Negatives: 2505 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3512
+		To end: 3525
+	False positives: 2325 / 0
+	True Negatives: 192 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1491
+		To:  2382
+		True from:  2383
+		To:  2759
+		True from:  2867
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2320 / 0
+	True Negatives: 197 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 82596 / 0
+True Negatives: 89457 / 172053
+Errors: 0
+
+Calculating: 72.12.242.27
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  6884
+	False positives: 5852 / 0
+	True Negatives: 12124 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1777
+	False positives: 768 / 0
+	True Negatives: 7811 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5828
+	False positives: 4816 / 0
+	True Negatives: 7814 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1604
+		True from:  1617
+		To:  4205
+		True from:  4224
+		To:  10856
+		True from:  10873
+		To end: 12925
+	False positives: 11868 / 0
+	True Negatives: 49 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2823
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9166
+		True from:  9185
+		To:  9197
+	False positives: 3715 / 0
+	True Negatives: 8365 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  2225
+		True from:  2228
+		To:  5317
+		True from:  5347
+		To:  6053
+		True from:  6054
+		To:  6636
+		True from:  6642
+		To:  6645
+		True from:  6651
+		To:  7745
+		True from:  7746
+		To:  7947
+		True from:  7948
+		To:  9270
+		True from:  9271
+		To:  9364
+		True from:  9385
+		To:  10966
+		True from:  10985
+		To:  11043
+		True from:  11044
+		To end: 12922
+	False positives: 11824 / 0
+	True Negatives: 90 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1057
+		True from:  1370
+		To:  1372
+		True from:  1551
+		To:  1554
+		True from:  1558
+		To:  1559
+		True from:  1627
+		To:  1628
+		True from:  1629
+		To:  1645
+		True from:  1656
+		To:  1663
+		True from:  1672
+		To:  1674
+		True from:  1726
+		To:  1729
+		True from:  1755
+		To:  1773
+		True from:  1851
+		To:  1855
+		True from:  1856
+		To:  1857
+		True from:  2149
+		To:  2163
+		True from:  2600
+		To:  2603
+		True from:  2604
+		To:  2606
+		True from:  2744
+		To:  2746
+		True from:  2803
+		To:  2821
+		True from:  2824
+		To:  2825
+		True from:  2828
+		To:  2833
+		True from:  2834
+		To:  2835
+		True from:  2836
+		To:  2841
+	False positives: 156 / 0
+	True Negatives: 2361 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3512
+		To end: 3525
+	False positives: 2325 / 0
+	True Negatives: 192 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1059
+		True from:  3291
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 228 / 0
+	True Negatives: 2289 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2460 / 0
+	True Negatives: 57 / 2517 
+
+False positives: 80637 / 0
+True Negatives: 91416 / 172053
+Errors: 0
+
+Calculating: 65.49.90.3
+	False from:  2222
+	To:  2262
+True positives: 2477 / 2517
+False negatives: 40 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1010
+		True from:  1012
+		To:  1585
+		True from:  9412
+		To:  9436
+		True from:  9450
+		To:  9451
+		True from:  9458
+		To:  9509
+		True from:  9517
+		To:  9668
+		True from:  9699
+		To:  9711
+		True from:  9713
+		To:  9844
+		True from:  9861
+		To:  9875
+		True from:  9876
+		To:  9877
+		True from:  9879
+		To:  9883
+		True from:  9898
+		To:  9914
+		True from:  9915
+		To:  9917
+		True from:  9923
+		To:  9924
+		True from:  9941
+		To:  9991
+		True from:  9995
+		To:  10000
+		True from:  10014
+		To:  10067
+		True from:  10081
+		To:  10177
+		True from:  10179
+		To:  10260
+		True from:  10261
+		To:  10315
+		True from:  10332
+		To:  10376
+		True from:  10400
+		To:  10416
+		True from:  10524
+		To:  10547
+		True from:  10566
+		To:  10660
+		True from:  10664
+		To:  10842
+		True from:  10954
+		To:  10957
+		True from:  10963
+		To:  11028
+		True from:  11031
+		To:  11055
+		True from:  11059
+		To:  11064
+		True from:  11065
+		To:  11066
+		True from:  11074
+		To:  11130
+		True from:  11150
+		To:  11151
+		True from:  11152
+		To:  11198
+		True from:  11199
+		To:  11212
+		True from:  11218
+		To:  11299
+		True from:  11302
+		To:  11312
+		True from:  11339
+		To:  11341
+		True from:  11345
+		To:  11431
+		True from:  11437
+		To:  11518
+		True from:  11520
+		To:  11521
+		True from:  11562
+		To:  11597
+		True from:  11598
+		To:  11602
+		True from:  11604
+		To:  11722
+		True from:  11744
+		To:  11781
+		True from:  11787
+		To:  11788
+		True from:  11790
+		To:  11804
+		True from:  11805
+		To:  11818
+		True from:  11819
+		To:  11820
+		True from:  11860
+		To:  11869
+		True from:  11904
+		To:  11933
+		True from:  11935
+		To:  11949
+		True from:  11957
+		To:  11958
+		True from:  11975
+		To:  12152
+		True from:  12157
+		To:  12246
+		True from:  12253
+		To:  12254
+		True from:  12264
+		To:  12269
+		True from:  12270
+		To:  12272
+		True from:  12278
+		To:  12367
+		True from:  12369
+		To:  12408
+		True from:  12412
+		To:  12442
+		True from:  12443
+		To:  12480
+		True from:  12484
+		To:  12492
+		True from:  12499
+		To:  12501
+		True from:  12502
+		To:  12544
+		True from:  12548
+		To:  12573
+		True from:  12591
+		To:  12592
+		True from:  12594
+		To:  12596
+		True from:  12597
+		To:  12604
+		True from:  12611
+		To:  12656
+		True from:  12658
+		To:  12723
+		True from:  12745
+		To:  12789
+		True from:  12803
+		To:  12854
+		True from:  12915
+		To end: 12925
+	False positives: 3199 / 0
+	True Negatives: 8718 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To:  3453
+		True from:  3514
+		To end: 3525
+	False positives: 2398 / 0
+	True Negatives: 119 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To:  2025
+	False positives: 958 / 0
+	True Negatives: 1559 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To end: 3525
+	False positives: 2477 / 0
+	True Negatives: 40 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To end: 3525
+	False positives: 2477 / 0
+	True Negatives: 40 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To:  2221
+		True from:  2263
+		To end: 3525
+	False positives: 2475 / 0
+	True Negatives: 42 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 13984 / 0
+True Negatives: 158069 / 172053
+Errors: 0
+
+Calculating: 67.207.43.226
+	False from:  2222
+	To:  2262
+True positives: 2477 / 2517
+False negatives: 40 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1010
+		True from:  1012
+		To:  1014
+		True from:  1016
+		To:  1023
+		True from:  1024
+		To:  1026
+		True from:  1028
+		To:  1033
+		True from:  1034
+		To:  1133
+		True from:  1139
+		To:  1141
+		True from:  1147
+		To:  1153
+		True from:  1154
+		To:  1194
+		True from:  1195
+		To:  1196
+		True from:  1220
+		To:  1254
+		True from:  1255
+		To:  1287
+		True from:  1321
+		To:  1357
+		True from:  1358
+		To:  1361
+		True from:  1367
+		To:  1370
+		True from:  1376
+		To:  1377
+		True from:  1380
+		To:  1406
+		True from:  1411
+		To:  1421
+		True from:  1450
+		To:  1517
+		True from:  1534
+		To:  1584
+		True from:  9385
+		To:  9393
+		True from:  9417
+		To:  9418
+		True from:  9419
+		To:  9420
+		True from:  9422
+		To:  9435
+		True from:  9450
+		To:  9451
+		True from:  9458
+		To:  9509
+		True from:  9512
+		To:  9635
+		True from:  9640
+		To:  9668
+		True from:  9695
+		To:  9802
+		True from:  9806
+		To:  9846
+		True from:  9861
+		To:  9891
+		True from:  9895
+		To:  9928
+		True from:  9930
+		To:  9931
+		True from:  9932
+		To:  9934
+		True from:  9941
+		To:  10004
+		True from:  10005
+		To:  10006
+		True from:  10013
+		To:  10066
+		True from:  10083
+		To:  10177
+		True from:  10179
+		To:  10273
+		True from:  10277
+		To:  10317
+		True from:  10323
+		To:  10377
+		True from:  10380
+		To:  10383
+		True from:  10386
+		To:  10416
+		True from:  10417
+		To:  10418
+		True from:  10524
+		To:  10547
+		True from:  10561
+		To:  10615
+		True from:  10617
+		To:  10660
+		True from:  10664
+		To:  10842
+		True from:  10949
+		To:  10950
+		True from:  10952
+		To:  11028
+		True from:  11029
+		To:  11030
+		True from:  11033
+		To:  11040
+		True from:  11044
+		To:  11049
+		True from:  11075
+		To:  11085
+		True from:  11088
+		To:  11092
+		True from:  11108
+		To:  11130
+		True from:  11153
+		To:  11192
+		True from:  11204
+		To:  11209
+		True from:  11210
+		To:  11212
+		True from:  11216
+		To:  11299
+		True from:  11302
+		To:  11314
+		True from:  11320
+		To:  11370
+		True from:  11380
+		To:  11385
+		True from:  11387
+		To:  11405
+		True from:  11409
+		To:  11438
+		True from:  11446
+		To:  11495
+		True from:  11504
+		To:  11526
+		True from:  11562
+		To:  11720
+		True from:  11742
+		To:  11781
+		True from:  11787
+		To:  11788
+		True from:  11790
+		To:  11818
+		True from:  11863
+		To:  11869
+		True from:  11904
+		To:  11951
+		True from:  11953
+		To:  11960
+		True from:  11975
+		To:  12087
+		True from:  12097
+		To:  12099
+		True from:  12100
+		To:  12152
+		True from:  12157
+		To:  12256
+		True from:  12264
+		To:  12267
+		True from:  12278
+		To:  12442
+		True from:  12443
+		To:  12480
+		True from:  12487
+		To:  12488
+		True from:  12499
+		To:  12538
+		True from:  12554
+		To:  12567
+		True from:  12568
+		To:  12570
+		True from:  12571
+		To:  12573
+		True from:  12599
+		To:  12600
+		True from:  12613
+		To:  12656
+		True from:  12658
+		To:  12664
+		True from:  12666
+		To:  12669
+		True from:  12680
+		To:  12721
+		True from:  12748
+		To:  12761
+		True from:  12762
+		To:  12810
+		True from:  12817
+		To:  12854
+		True from:  12916
+		To end: 12925
+	False positives: 3051 / 0
+	True Negatives: 8866 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  2039
+		To:  2324
+		True from:  2341
+		To:  2372
+		True from:  2383
+		To:  2384
+		True from:  2387
+		To:  2857
+		True from:  2860
+		To:  2869
+		True from:  2881
+		To:  3452
+		True from:  3514
+		To end: 3525
+	False positives: 1379 / 0
+	True Negatives: 1138 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To:  2025
+	False positives: 958 / 0
+	True Negatives: 1559 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To end: 3525
+	False positives: 2477 / 0
+	True Negatives: 40 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  2222
+		True from:  2262
+		To end: 3525
+	False positives: 2477 / 0
+	True Negatives: 40 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1033
+		To:  1034
+		True from:  1036
+		To:  1037
+		True from:  1038
+		To:  1039
+		True from:  1042
+		To:  1045
+		True from:  1098
+		To:  1144
+		True from:  1148
+		To:  1149
+		True from:  1154
+		To:  1155
+		True from:  1162
+		To:  1163
+		True from:  1164
+		To:  1172
+		True from:  1173
+		To:  1174
+		True from:  1179
+		To:  1182
+		True from:  1187
+		To:  1188
+		True from:  1193
+		To:  1208
+		True from:  1235
+		To:  1236
+		True from:  1237
+		To:  1238
+		True from:  1241
+		To:  1249
+		True from:  1253
+		To:  1254
+		True from:  1255
+		To:  1259
+		True from:  1260
+		To:  1269
+		True from:  1286
+		To:  1288
+		True from:  1294
+		To:  1310
+		True from:  1357
+		To:  1363
+		True from:  1373
+		To:  1374
+		True from:  1375
+		To:  1378
+		True from:  1384
+		To:  1392
+		True from:  1393
+		To:  1420
+		True from:  1449
+		To:  1472
+		True from:  1501
+		To:  1546
+		True from:  1553
+		To:  1555
+		True from:  1581
+		To:  1583
+		True from:  1585
+		To:  1641
+		True from:  1710
+		To:  1746
+		True from:  2139
+		To:  2151
+		True from:  2180
+		To:  2181
+		True from:  2183
+		To:  2186
+		True from:  2282
+		To:  2284
+		True from:  2287
+		To:  2288
+		True from:  2463
+		To:  2469
+		True from:  2477
+		To:  2482
+		True from:  2530
+		To:  2549
+		True from:  2550
+		To:  2553
+		True from:  2608
+		To:  2620
+		True from:  2706
+		To:  2711
+		True from:  2715
+		To:  2716
+		True from:  2717
+		To:  2718
+		True from:  2724
+		To:  2731
+		True from:  2742
+		To:  2743
+		True from:  2745
+		To:  2746
+		True from:  2802
+		To:  2804
+		True from:  2834
+		To:  2838
+		True from:  2840
+		To:  2851
+		True from:  2905
+		To:  2906
+		True from:  2936
+		To:  2943
+		True from:  3039
+		To:  3041
+		True from:  3047
+		To:  3048
+		True from:  3066
+		To:  3067
+		True from:  3076
+		To:  3083
+		True from:  3118
+		To:  3119
+		True from:  3121
+		To:  3127
+		True from:  3128
+		To:  3150
+		True from:  3151
+		To:  3152
+		True from:  3230
+		To:  3233
+		True from:  3238
+		To:  3240
+		True from:  3244
+		To:  3249
+		True from:  3257
+		To:  3258
+		True from:  3261
+		To:  3268
+		True from:  3273
+		To:  3278
+		True from:  3282
+		To:  3283
+		True from:  3284
+		To:  3314
+		True from:  3315
+		To:  3317
+		True from:  3325
+		To:  3328
+		True from:  3329
+		To:  3358
+		True from:  3359
+		To:  3380
+		True from:  3407
+		To:  3410
+		True from:  3435
+		To:  3464
+		True from:  3471
+		To:  3473
+		True from:  3478
+		To:  3505
+		True from:  3506
+		To:  3513
+		True from:  3521
+		To:  3522
+	False positives: 658 / 0
+	True Negatives: 1859 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 11000 / 0
+True Negatives: 161053 / 172053
+Errors: 0
+
+Calculating: 65.49.97.245
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1869
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To:  8429
+		True from:  8430
+		To end: 9587
+	False positives: 5537 / 0
+	True Negatives: 3042 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To end: 9587
+	False positives: 8398 / 0
+	True Negatives: 181 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4890
+		To:  6470
+		True from:  6481
+		To:  6910
+		True from:  6933
+		To end: 9587
+	False positives: 5525 / 0
+	True Negatives: 3054 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1016
+		To:  4987
+		True from:  5012
+		To:  7070
+		True from:  13095
+		To:  16087
+	False positives: 9021 / 0
+	True Negatives: 8955 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6934
+		To end: 9587
+	False positives: 5538 / 0
+	True Negatives: 3041 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1013
+		True from:  3759
+		To:  3763
+		True from:  3806
+		To:  3885
+		True from:  3946
+		To:  3949
+		True from:  3990
+		To:  4015
+		True from:  4019
+		To:  4021
+		True from:  4075
+		To:  4082
+		True from:  4084
+		To:  4107
+		True from:  4333
+		To:  4346
+		True from:  4386
+		To:  4417
+		True from:  5590
+		To:  5591
+		True from:  5593
+		To:  5598
+		True from:  6043
+		To end: 9587
+	False positives: 3741 / 0
+	True Negatives: 4838 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1868
+		True from:  4888
+		To:  6909
+		True from:  6934
+		To:  9225
+		True from:  9227
+		To end: 9587
+	False positives: 5532 / 0
+	True Negatives: 3047 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5912
+		True from:  8943
+		To:  9105
+		True from:  9129
+		To:  9144
+		True from:  9154
+		To:  9156
+		True from:  9168
+		To:  9284
+		True from:  9316
+		To:  9353
+		True from:  9356
+		To:  9357
+		True from:  9361
+		To:  9366
+		True from:  9367
+		To:  9440
+		True from:  9442
+		To:  9457
+		True from:  9464
+		To:  9467
+		True from:  9472
+		To:  9552
+		True from:  9554
+		To:  9557
+		True from:  9558
+		To:  9669
+		True from:  9693
+		To:  9707
+		True from:  9710
+		To:  9712
+		True from:  9724
+		To:  9730
+		True from:  9731
+		To:  9734
+		True from:  9736
+		To:  9787
+		True from:  9835
+		To:  10039
+		True from:  10049
+		To:  10295
+		True from:  10297
+		To:  10310
+		True from:  10328
+		To:  10353
+		True from:  10367
+		To:  10413
+		True from:  10428
+		To:  10477
+		True from:  10482
+		To:  10601
+		True from:  10650
+		To:  10686
+		True from:  10687
+		To:  10692
+		True from:  10702
+		To:  10753
+		True from:  10756
+		To:  10757
+		True from:  10767
+		To:  10768
+		True from:  10770
+		To:  10775
+		True from:  10783
+		To:  10804
+		True from:  10805
+		To:  10808
+		True from:  10817
+		To:  10820
+		True from:  10825
+		To:  10917
+		True from:  10931
+		To:  10950
+		True from:  10987
+		To:  11076
+		True from:  11080
+		To:  11178
+		True from:  11192
+		To:  11262
+		True from:  11273
+		To:  11299
+		True from:  11313
+		To:  11373
+		True from:  11374
+		To:  11377
+		True from:  11379
+		To:  11381
+		True from:  11394
+		To:  11473
+		True from:  11474
+		To:  11475
+		True from:  11478
+		To:  11479
+		True from:  11513
+		To:  11523
+		True from:  11527
+		To:  11540
+		True from:  11542
+		To:  11639
+		True from:  11640
+		To:  11642
+		True from:  11655
+		To:  11696
+		True from:  11697
+		To:  11699
+		True from:  11710
+		To:  11761
+		True from:  11798
+		To:  11925
+		True from:  11931
+		To:  12038
+		True from:  12046
+		To:  12104
+		True from:  12109
+		To:  12125
+		True from:  12128
+		To:  12132
+		True from:  12135
+		To:  12165
+		True from:  12193
+		To:  12196
+		True from:  12206
+		To:  12210
+		True from:  12212
+		To:  12235
+		True from:  12258
+		To:  12312
+		True from:  12326
+		To:  12344
+		True from:  12353
+		To:  12490
+		True from:  12494
+		To:  12523
+		True from:  12547
+		To:  12551
+		True from:  12563
+		To:  12564
+		True from:  12567
+		To:  12598
+		True from:  12620
+		To:  12625
+		True from:  12651
+		To:  12679
+		True from:  12681
+		To:  12683
+		True from:  12688
+		To:  12690
+		True from:  12691
+		To:  12754
+		True from:  12766
+		To:  12773
+		True from:  12774
+		To:  12777
+		True from:  12778
+		To:  12781
+		True from:  12810
+		To:  12867
+		True from:  12885
+		To:  12901
+		True from:  12922
+		To:  12978
+		True from:  12984
+		To:  12992
+		True from:  13010
+		To:  13012
+		True from:  13015
+		To:  13041
+		True from:  13046
+		To:  13056
+		True from:  13057
+		To:  13059
+		True from:  13063
+		To:  13170
+		True from:  13188
+		To:  13402
+		True from:  13411
+		To:  13415
+		True from:  13422
+		To:  13457
+		True from:  13467
+		To:  13480
+		True from:  13481
+		To:  13488
+		True from:  13490
+		To:  13509
+		True from:  13512
+		To:  13514
+		True from:  13521
+		To:  13524
+		True from:  13525
+		To:  13526
+		True from:  13553
+		To:  13581
+		True from:  13600
+		To:  13611
+		True from:  13631
+		To:  13634
+		True from:  13635
+		To:  13636
+	False positives: 8567 / 0
+	True Negatives: 4063 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1595
+		True from:  7032
+		To:  7037
+		True from:  7043
+		To:  7053
+		True from:  7179
+		To:  7182
+		True from:  7188
+		To:  7213
+		True from:  7288
+		To:  7289
+		True from:  7298
+		To:  7309
+		True from:  7430
+		To:  7438
+		True from:  7612
+		To:  7615
+		True from:  9382
+		To:  10490
+		True from:  10513
+		To:  10856
+		True from:  10873
+		To:  10886
+		True from:  10928
+		To end: 12925
+	False positives: 4114 / 0
+	True Negatives: 7803 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1392
+		True from:  2823
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8828
+		To:  9197
+	False positives: 3732 / 0
+	True Negatives: 8348 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  3367
+		True from:  3377
+		To:  3607
+		True from:  3617
+		To:  3728
+		True from:  3729
+		To:  3849
+		True from:  3852
+		To:  3853
+		True from:  3857
+		To:  3867
+		True from:  3870
+		To:  3983
+		True from:  3988
+		To:  4076
+		True from:  4080
+		To:  4087
+		True from:  4095
+		To:  4096
+		True from:  4097
+		To:  5229
+		True from:  5231
+		To:  5263
+		True from:  5274
+		To:  5317
+		True from:  5344
+		To:  5435
+		True from:  5436
+		To:  6031
+		True from:  6041
+		To:  7453
+		True from:  7463
+		To:  8006
+		True from:  8007
+		To:  8008
+		True from:  8011
+		To:  9003
+		True from:  9021
+		To:  9131
+		True from:  9149
+		To:  9255
+		True from:  9275
+		To:  9498
+		True from:  9512
+		To:  9605
+		True from:  9625
+		To:  10272
+		True from:  10287
+		To:  10963
+		True from:  10987
+		To:  11041
+		True from:  11047
+		To:  12263
+		True from:  12291
+		To:  12352
+		True from:  12375
+		To:  12516
+		True from:  12559
+		To:  12618
+		True from:  12669
+		To:  12743
+		True from:  12770
+		To:  12840
+		True from:  12865
+		To end: 12922
+	False positives: 11468 / 0
+	True Negatives: 446 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  3459
+		True from:  3509
+		To end: 3525
+	False positives: 2467 / 0
+	True Negatives: 50 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To end: 3525
+	False positives: 2382 / 0
+	True Negatives: 135 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To:  1013
+		True from:  1040
+		To:  1052
+		True from:  1076
+		To:  1134
+		True from:  1174
+		To:  1216
+		True from:  1256
+		To:  1270
+		True from:  1271
+		To:  1273
+		True from:  1274
+		To:  1335
+		True from:  1336
+		To:  1338
+		True from:  1341
+		To:  1345
+		True from:  1358
+		To:  1406
+		True from:  1421
+		To:  1445
+		True from:  1458
+		To:  1621
+		True from:  1645
+		To:  1708
+		True from:  1743
+		To:  1808
+		True from:  1828
+		To:  1891
+		True from:  1909
+		To:  2007
+		True from:  2008
+		To:  2018
+		True from:  2022
+		To:  2080
+		True from:  2118
+		To:  2185
+		True from:  2216
+		To:  2292
+		True from:  2310
+		To:  2349
+		True from:  2352
+		To:  2353
+		True from:  2414
+		To:  2456
+		True from:  2507
+		To:  2549
+		True from:  2553
+		To:  2576
+		True from:  2596
+		To:  2658
+		True from:  2700
+		To:  2734
+		True from:  2799
+		To:  2801
+		True from:  2802
+		To:  2803
+		True from:  2811
+		To:  2831
+		True from:  2892
+		To:  2937
+		True from:  2953
+		To:  2957
+		True from:  2961
+		To:  2967
+		True from:  2970
+		To:  2971
+		True from:  2981
+		To:  3051
+		True from:  3075
+		To:  3127
+		True from:  3136
+		To:  3138
+		True from:  3193
+		To:  3214
+		True from:  3224
+		To:  3225
+		True from:  3226
+		To:  3228
+		True from:  3256
+		To:  3456
+		True from:  3511
+		To end: 3525
+	False positives: 1619 / 0
+	True Negatives: 898 / 2517 
+
+False positives: 100000 / 0
+True Negatives: 72053 / 172053
+Errors: 0
+
+Calculating: 68.70.234.81
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  5590
+		To:  5591
+		True from:  5594
+		To:  5597
+		True from:  6043
+		To:  8937
+		True from:  8939
+		To:  9515
+		True from:  9574
+		To end: 9587
+	False positives: 3488 / 0
+	True Negatives: 5091 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1592
+		True from:  10432
+		To:  10446
+		True from:  10451
+		To:  10460
+		True from:  10514
+		To:  10855
+		True from:  10881
+		To:  10883
+		True from:  10940
+		To:  12854
+		True from:  12912
+		To end: 12925
+	False positives: 2877 / 0
+	True Negatives: 9040 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  2909
+		To end: 3525
+	False positives: 617 / 0
+	True Negatives: 1900 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  2772
+		To:  2832
+	False positives: 60 / 0
+	True Negatives: 2457 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2862
+		To:  3453
+		True from:  3512
+		To end: 3525
+	False positives: 2355 / 0
+	True Negatives: 162 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  2798
+		To:  2805
+	False positives: 7 / 0
+	True Negatives: 2510 / 2517 
+
+False positives: 21873 / 0
+True Negatives: 150180 / 172053
+Errors: 0
+
+Calculating: 65.130.169.190
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1880
+		True from:  1898
+		To:  1903
+		True from:  1904
+		To:  1905
+		True from:  1915
+		To:  1943
+		True from:  1947
+		To:  2020
+		True from:  2032
+		To:  2034
+		True from:  2042
+		To:  2113
+		True from:  2114
+		To:  2116
+		True from:  2142
+		To:  2176
+		True from:  2183
+		To:  2194
+		True from:  2201
+		To:  2204
+		True from:  2218
+		To:  2246
+		True from:  2247
+		To:  2250
+		True from:  2263
+		To:  2355
+		True from:  2358
+		To:  2402
+		True from:  2418
+		To:  2419
+		True from:  2426
+		To:  2432
+		True from:  2437
+		To:  2438
+		True from:  2446
+		To:  2453
+		True from:  2455
+		To:  2470
+		True from:  2496
+		To:  2505
+		True from:  2509
+		To:  2510
+		True from:  2512
+		To:  2515
+		True from:  2526
+		To:  2527
+		True from:  2528
+		To:  2532
+		True from:  2534
+		To:  2537
+		True from:  2539
+		To:  2540
+		True from:  2556
+		To:  2558
+		True from:  2561
+		To:  2574
+		True from:  2577
+		To:  2592
+		True from:  2594
+		To:  2723
+		True from:  2754
+		To:  2785
+		True from:  2790
+		To:  2825
+		True from:  2834
+		To:  2990
+		True from:  3005
+		To:  3042
+		True from:  3052
+		To:  3075
+		True from:  3081
+		To:  3083
+		True from:  3096
+		To:  3103
+		True from:  3107
+		To:  3182
+		True from:  3183
+		To:  3194
+		True from:  3198
+		To:  3294
+		True from:  3301
+		To:  3312
+		True from:  3314
+		To:  3327
+		True from:  3334
+		To:  3382
+		True from:  3406
+		To:  3497
+		True from:  3498
+		To:  3506
+		True from:  3508
+		To:  3512
+		True from:  3519
+		To:  3524
+		True from:  3536
+		To:  3538
+		True from:  3539
+		To:  3564
+		True from:  3572
+		To:  3579
+		True from:  3580
+		To:  3585
+		True from:  3586
+		To:  3587
+		True from:  3588
+		To:  3636
+		True from:  3641
+		To:  3670
+		True from:  3678
+		To:  3814
+		True from:  3834
+		To:  3901
+		True from:  3911
+		To:  3912
+		True from:  3925
+		To:  3929
+		True from:  3937
+		To:  3971
+		True from:  3981
+		To:  4092
+		True from:  4108
+		To:  4305
+		True from:  4342
+		To:  4348
+		True from:  4353
+		To:  4362
+		True from:  4369
+		To:  4457
+		True from:  4458
+		To:  4459
+		True from:  4475
+		To:  4477
+		True from:  4481
+		To:  4547
+		True from:  4558
+		To:  4564
+		True from:  4565
+		To:  4600
+		True from:  4647
+		To:  4680
+		True from:  4700
+		To:  4714
+		True from:  4715
+		To:  4718
+		True from:  4721
+		To:  4723
+		True from:  4747
+		To:  4774
+		True from:  4783
+		To:  4784
+		True from:  4785
+		To:  4791
+		True from:  4832
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 7832 / 0
+	True Negatives: 747 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To end: 9587
+	False positives: 8418 / 0
+	True Negatives: 161 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1886
+		True from:  1890
+		To:  1897
+		True from:  1906
+		To:  1974
+		True from:  1976
+		To:  1978
+		True from:  1996
+		To:  2115
+		True from:  2117
+		To:  2118
+		True from:  2138
+		To:  2235
+		True from:  2236
+		To:  2288
+		True from:  2292
+		To:  2397
+		True from:  2411
+		To:  2413
+		True from:  2419
+		To:  2420
+		True from:  2421
+		To:  2819
+		True from:  2820
+		To:  3026
+		True from:  3039
+		To:  3129
+		True from:  3131
+		To:  3284
+		True from:  3287
+		To:  3588
+		True from:  3602
+		To:  3982
+		True from:  3984
+		To:  4226
+		True from:  4232
+		To:  4278
+		True from:  4299
+		To:  4521
+		True from:  4526
+		To:  4528
+		True from:  4532
+		To:  4794
+		True from:  4805
+		To:  4806
+		True from:  4807
+		To:  4833
+		True from:  4850
+		To:  4851
+		True from:  4853
+		To:  4867
+		True from:  4869
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 8372 / 0
+	True Negatives: 207 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  7109
+		True from:  7113
+		To:  7127
+		True from:  7131
+		To:  7159
+		True from:  7167
+		To:  7172
+		True from:  7173
+		To:  7340
+		True from:  7347
+		To:  7484
+		True from:  7488
+		To:  7496
+		True from:  7500
+		To:  7538
+		True from:  7549
+		To:  7561
+		True from:  7562
+		To:  7563
+		True from:  7567
+		To:  7641
+		True from:  7647
+		To:  7727
+		True from:  7743
+		To:  7868
+		True from:  7869
+		To:  7952
+		True from:  7976
+		To:  8040
+		True from:  8050
+		To:  8218
+		True from:  8227
+		To:  8228
+		True from:  8242
+		To:  8243
+		True from:  8244
+		To:  8246
+		True from:  8252
+		To:  8254
+		True from:  8255
+		To:  8259
+		True from:  8260
+		To:  8347
+		True from:  8348
+		To:  8349
+		True from:  8373
+		To:  8379
+		True from:  8404
+		To:  8532
+		True from:  8534
+		To:  8549
+		True from:  8552
+		To:  8611
+		True from:  8629
+		To:  8662
+		True from:  8667
+		To:  8725
+		True from:  8727
+		To:  8873
+		True from:  8875
+		To:  8876
+		True from:  8895
+		To:  8945
+		True from:  8951
+		To:  9000
+		True from:  9014
+		To:  9015
+		True from:  9022
+		To:  9056
+		True from:  9059
+		To:  9075
+		True from:  9076
+		To:  9126
+		True from:  9150
+		To:  9269
+		True from:  9272
+		To:  9495
+		True from:  9508
+		To:  9630
+		True from:  9644
+		To:  9645
+		True from:  9649
+		To:  9697
+		True from:  9708
+		To:  9709
+		True from:  9710
+		To:  9739
+		True from:  9787
+		To:  9788
+		True from:  9789
+		To:  9818
+		True from:  9826
+		To:  9828
+		True from:  9829
+		To:  9831
+		True from:  9833
+		To:  9851
+		True from:  9852
+		To:  9857
+		True from:  9874
+		To:  9994
+		True from:  9998
+		To:  10105
+		True from:  10109
+		To:  10110
+		True from:  10118
+		To:  10350
+		True from:  10357
+		To:  10358
+		True from:  10361
+		To:  10363
+		True from:  10364
+		To:  10412
+		True from:  10420
+		To:  10430
+		True from:  10434
+		To:  10444
+		True from:  10450
+		To:  10452
+		True from:  10453
+		To:  10696
+		True from:  10697
+		To:  10863
+		True from:  10876
+		To:  10877
+		True from:  10928
+		To:  11094
+		True from:  11095
+		To:  11152
+		True from:  11154
+		To:  11157
+		True from:  11184
+		To:  11230
+		True from:  11234
+		To:  11235
+		True from:  11240
+		To:  11246
+		True from:  11249
+		To:  11252
+		True from:  11254
+		To:  11610
+		True from:  11614
+		To:  11616
+		True from:  11621
+		To:  11623
+		True from:  11634
+		To:  11772
+		True from:  11773
+		To:  11782
+		True from:  11783
+		To:  11784
+		True from:  11789
+		To:  11827
+		True from:  11828
+		To:  11905
+		True from:  11929
+		To:  11952
+		True from:  11954
+		To:  11997
+		True from:  12017
+		To:  12239
+		True from:  12244
+		To:  12246
+		True from:  12247
+		To:  12249
+		True from:  12258
+		To:  12438
+		True from:  12440
+		To:  12441
+		True from:  12462
+		To:  12497
+		True from:  12525
+		To:  12623
+		True from:  12628
+		To:  12629
+		True from:  12637
+		To:  12638
+		True from:  12647
+		To:  12648
+		True from:  12653
+		To:  12661
+		True from:  12663
+		To:  12670
+		True from:  12672
+		To:  12674
+		True from:  12694
+		To:  12782
+		True from:  12790
+		To:  12799
+		True from:  12803
+		To:  12932
+		True from:  12933
+		To:  13051
+		True from:  13057
+		To:  16191
+		True from:  16223
+		To:  16280
+		True from:  16284
+		To:  16292
+		True from:  16333
+		To:  16347
+		True from:  16349
+		To:  16350
+		True from:  16359
+		To:  16505
+		True from:  16522
+		To:  16524
+		True from:  16534
+		To:  16540
+		True from:  16579
+		To:  16580
+		True from:  16582
+		To:  16620
+		True from:  16621
+		To:  16625
+		True from:  16629
+		To:  16630
+		True from:  16633
+		To:  16692
+		True from:  16704
+		To:  16725
+		True from:  16746
+		To:  16762
+		True from:  16794
+		To:  16795
+		True from:  16796
+		To:  16803
+		True from:  16828
+		To:  16832
+		True from:  16833
+		To:  16834
+		True from:  16858
+		To:  16920
+		True from:  16940
+		To:  16942
+		True from:  16943
+		To:  16965
+		True from:  16966
+		To:  16968
+		True from:  17000
+		To:  17005
+		True from:  17018
+		To:  17026
+		True from:  17028
+		To:  17085
+		True from:  17087
+		To:  17094
+		True from:  17099
+		To:  17104
+		True from:  17118
+		To:  17179
+		True from:  17199
+		To:  17202
+		True from:  17203
+		To:  17274
+		True from:  17276
+		To:  17295
+		True from:  17298
+		To:  17299
+		True from:  17301
+		To:  17302
+		True from:  17319
+		To:  17351
+		True from:  17354
+		To:  17358
+		True from:  17359
+		To:  17361
+		True from:  17365
+		To:  17369
+		True from:  17371
+		To:  17400
+		True from:  17405
+		To:  17417
+		True from:  17421
+		To:  17436
+		True from:  17451
+		To:  17455
+		True from:  17456
+		To:  17457
+		True from:  17458
+		To:  17478
+		True from:  17479
+		To:  17505
+		True from:  17513
+		To:  17524
+		True from:  17529
+		To:  17538
+		True from:  17548
+		To:  17555
+		True from:  17556
+		To:  17627
+		True from:  17639
+		To:  17730
+		True from:  17736
+		To:  17784
+		True from:  17800
+		To:  17899
+		True from:  17903
+		To:  17909
+		True from:  17922
+		To:  17955
+		True from:  17964
+		To:  18039
+		True from:  18041
+		To:  18046
+		True from:  18052
+		To:  18081
+		True from:  18082
+		To:  18084
+		True from:  18105
+		To:  18160
+		True from:  18169
+		To:  18206
+		True from:  18214
+		To:  18240
+		True from:  18250
+		To:  18297
+		True from:  18315
+		To:  18437
+		True from:  18439
+		To:  18445
+		True from:  18451
+		To:  18465
+		True from:  18469
+		To:  18600
+		True from:  18601
+		To:  18602
+		True from:  18605
+		To:  18607
+		True from:  18617
+		To:  18618
+		True from:  18619
+		To:  18620
+		True from:  18624
+		To:  18639
+		True from:  18642
+		To:  18649
+		True from:  18652
+		To:  18670
+		True from:  18671
+		To:  18683
+		True from:  18685
+		To:  18761
+		True from:  18794
+		To:  18916
+		True from:  18940
+		To end: 18984
+	False positives: 16463 / 0
+	True Negatives: 1513 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1884
+		True from:  1890
+		To:  1901
+		True from:  1902
+		To:  1923
+		True from:  1925
+		To:  1928
+		True from:  1932
+		To:  1935
+		True from:  1937
+		To:  1955
+		True from:  1959
+		To:  1987
+		True from:  2001
+		To:  2006
+		True from:  2008
+		To:  2025
+		True from:  2026
+		To:  2073
+		True from:  2074
+		To:  2079
+		True from:  2128
+		To:  2129
+		True from:  2133
+		To:  2140
+		True from:  2147
+		To:  2176
+		True from:  2199
+		To:  2204
+		True from:  2211
+		To:  2213
+		True from:  2246
+		To:  2247
+		True from:  2248
+		To:  2253
+		True from:  2255
+		To:  2292
+		True from:  2313
+		To:  2342
+		True from:  2344
+		To:  2385
+		True from:  2435
+		To:  2439
+		True from:  2440
+		To:  2442
+		True from:  2476
+		To:  2502
+		True from:  2505
+		To:  2507
+		True from:  2514
+		To:  2518
+		True from:  2519
+		To:  2520
+		True from:  2526
+		To:  2539
+		True from:  2540
+		To:  2597
+		True from:  2602
+		To:  2603
+		True from:  2612
+		To:  2613
+		True from:  2617
+		To:  2620
+		True from:  2633
+		To:  2662
+		True from:  2680
+		To:  2691
+		True from:  2714
+		To:  2773
+		True from:  2781
+		To:  2825
+		True from:  2835
+		To:  2963
+		True from:  2983
+		To:  2985
+		True from:  2987
+		To:  2995
+		True from:  3016
+		To:  3018
+		True from:  3019
+		To:  3025
+		True from:  3051
+		To:  3061
+		True from:  3062
+		To:  3074
+		True from:  3099
+		To:  3290
+		True from:  3301
+		To:  3303
+		True from:  3314
+		To:  3324
+		True from:  3326
+		To:  3338
+		True from:  3339
+		To:  3345
+		True from:  3348
+		To:  3426
+		True from:  3456
+		To:  3529
+		True from:  3532
+		To:  3534
+		True from:  3537
+		To:  3551
+		True from:  3552
+		To:  3557
+		True from:  3558
+		To:  3560
+		True from:  3565
+		To:  3566
+		True from:  3567
+		To:  3570
+		True from:  3575
+		To:  3576
+		True from:  3579
+		To:  3611
+		True from:  3632
+		To:  3690
+		True from:  3692
+		To:  3875
+		True from:  3893
+		To:  4116
+		True from:  4117
+		To:  4129
+		True from:  4135
+		To:  4137
+		True from:  4138
+		To:  4157
+		True from:  4180
+		To:  4246
+		True from:  4251
+		To:  4297
+		True from:  4318
+		To:  4345
+		True from:  4348
+		To:  4355
+		True from:  4358
+		To:  4361
+		True from:  4364
+		To:  4418
+		True from:  4420
+		To:  4423
+		True from:  4426
+		To:  4428
+		True from:  4430
+		To:  4431
+		True from:  4433
+		To:  4502
+		True from:  4506
+		To:  4508
+		True from:  4515
+		To:  4521
+		True from:  4526
+		To:  4531
+		True from:  4532
+		To:  4576
+		True from:  4589
+		To:  4616
+		True from:  4642
+		To:  4643
+		True from:  4644
+		To:  4658
+		True from:  4663
+		To:  4666
+		True from:  4667
+		To:  4676
+		True from:  4677
+		To:  4679
+		True from:  4680
+		To:  4684
+		True from:  4708
+		To:  4717
+		True from:  4718
+		To:  4728
+		True from:  4743
+		To:  4770
+		True from:  4777
+		To:  4786
+		True from:  4788
+		To:  4793
+		True from:  4794
+		To:  4828
+		True from:  4851
+		To:  6911
+		True from:  6932
+		To end: 9587
+	False positives: 7749 / 0
+	True Negatives: 830 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  2020
+		True from:  2021
+		To:  2026
+		True from:  2028
+		To:  2029
+		True from:  2031
+		To:  2037
+		True from:  2041
+		To:  2052
+		True from:  2053
+		To:  2056
+		True from:  2060
+		To:  2106
+		True from:  2129
+		To:  2146
+		True from:  2160
+		To:  2166
+		True from:  2168
+		To:  2423
+		True from:  2424
+		To:  2435
+		True from:  2436
+		To:  2491
+		True from:  2494
+		To:  2510
+		True from:  2512
+		To:  2513
+		True from:  2515
+		To:  2516
+		True from:  2526
+		To:  2529
+		True from:  2530
+		To:  2533
+		True from:  2534
+		To:  2610
+		True from:  2634
+		To:  2712
+		True from:  2713
+		To:  2714
+		True from:  2717
+		To:  2724
+		True from:  2733
+		To:  2767
+		True from:  2768
+		To:  2770
+		True from:  2794
+		To:  2795
+		True from:  2800
+		To:  2806
+		True from:  2815
+		To:  2816
+		True from:  2819
+		To:  2821
+		True from:  2830
+		To:  2834
+		True from:  2835
+		To:  2886
+		True from:  2891
+		To:  2892
+		True from:  2900
+		To:  2902
+		True from:  2903
+		To:  3013
+		True from:  3014
+		To:  3016
+		True from:  3017
+		To:  3031
+		True from:  3036
+		To:  3039
+		True from:  3040
+		To:  3275
+		True from:  3299
+		To:  3300
+		True from:  3301
+		To:  3304
+		True from:  3305
+		To:  3416
+		True from:  3438
+		To:  3466
+		True from:  3472
+		To:  3526
+		True from:  3535
+		To:  3618
+		True from:  3620
+		To:  3848
+		True from:  3855
+		To:  3860
+		True from:  3863
+		To:  3864
+		True from:  3872
+		To:  3874
+		True from:  3876
+		To:  3880
+		True from:  3884
+		To:  3885
+		True from:  3898
+		To:  3925
+		True from:  3942
+		To:  4093
+		True from:  4098
+		To:  4159
+		True from:  4165
+		To:  4218
+		True from:  4222
+		To:  4310
+		True from:  4311
+		To:  4365
+		True from:  4370
+		To:  4371
+		True from:  4374
+		To:  4377
+		True from:  4379
+		To:  4382
+		True from:  4384
+		To:  4572
+		True from:  4577
+		To:  4589
+		True from:  4591
+		To:  4642
+		True from:  4644
+		To:  4702
+		True from:  4740
+		To:  4776
+		True from:  4786
+		To:  4802
+		True from:  4813
+		To:  4833
+		True from:  4843
+		To:  4850
+		True from:  4855
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 8142 / 0
+	True Negatives: 437 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5968
+		True from:  5970
+		To:  6106
+		True from:  6107
+		To:  6128
+		True from:  6129
+		To:  6135
+		True from:  6139
+		To:  6140
+		True from:  6151
+		To:  6276
+		True from:  6284
+		To:  6501
+		True from:  6502
+		To:  6515
+		True from:  6529
+		To:  6531
+		True from:  6533
+		To:  6609
+		True from:  6619
+		To:  7044
+		True from:  7049
+		To:  7058
+		True from:  7068
+		To:  7069
+		True from:  7070
+		To:  7081
+		True from:  7093
+		To:  7094
+		True from:  7135
+		To:  7177
+		True from:  7201
+		To:  8248
+		True from:  8249
+		To:  8345
+		True from:  8346
+		To:  10961
+		True from:  10984
+		To end: 13638
+	False positives: 12455 / 0
+	True Negatives: 175 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To end: 12925
+	False positives: 11917 / 0
+	True Negatives: 0 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To end: 12922
+	False positives: 11914 / 0
+	True Negatives: 0 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1444
+		To:  1446
+		True from:  1674
+		To:  1675
+		True from:  1676
+		To:  1692
+		True from:  1693
+		To:  1696
+		True from:  1720
+		To:  3359
+	False positives: 1661 / 0
+	True Negatives: 856 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 154921 / 0
+True Negatives: 17132 / 172053
+Errors: 0
+
+Calculating: 76.27.5.119
+	False from:  1460
+	To:  1489
+	False from:  2759
+	To:  2864
+True positives: 2383 / 2517
+False negatives: 134 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1869
+		True from:  4888
+		To:  6910
+		True from:  6933
+		To end: 9587
+	False positives: 5537 / 0
+	True Negatives: 3042 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  4119
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To end: 9587
+	False positives: 6507 / 0
+	True Negatives: 2072 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1011
+		True from:  1012
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5538 / 0
+	True Negatives: 3041 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  7070
+		True from:  13095
+		To:  16086
+	False positives: 9029 / 0
+	True Negatives: 8947 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1869
+		True from:  4888
+		To:  6911
+		True from:  6934
+		To end: 9587
+	False positives: 5537 / 0
+	True Negatives: 3042 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  9529
+		To:  9561
+	False positives: 32 / 0
+	True Negatives: 8547 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4880
+		True from:  4893
+		To:  5921
+		True from:  8942
+		To:  9104
+		True from:  9118
+		To:  9151
+		True from:  9154
+		To:  9760
+		True from:  9762
+		To:  9777
+		True from:  9781
+		To:  9852
+		True from:  9855
+		To:  9945
+		True from:  9947
+		To:  9949
+		True from:  9951
+		To:  10094
+		True from:  10095
+		To:  10170
+		True from:  10171
+		To:  10192
+		True from:  10193
+		To:  10200
+		True from:  10203
+		To:  10207
+		True from:  10208
+		To:  10213
+		True from:  10215
+		To:  10294
+		True from:  10303
+		To:  10307
+		True from:  10308
+		To:  10363
+		True from:  10372
+		To:  10373
+		True from:  10383
+		To:  10384
+		True from:  10387
+		To:  10389
+		True from:  10399
+		To:  10403
+		True from:  10431
+		To:  10438
+		True from:  10456
+		To:  10480
+		True from:  10492
+		To:  10496
+		True from:  10497
+		To:  10546
+		True from:  10550
+		To:  10697
+		True from:  10705
+		To:  10707
+		True from:  10708
+		To:  10781
+		True from:  10785
+		To:  10838
+		True from:  10862
+		To:  10873
+		True from:  10894
+		To:  10926
+		True from:  10929
+		To:  10933
+		True from:  10950
+		To:  10960
+		True from:  10987
+		To:  10995
+		True from:  11019
+		To:  11024
+		True from:  11032
+		To:  11035
+		True from:  11059
+		To:  11061
+		True from:  11066
+		To:  11067
+		True from:  11070
+		To:  11071
+		True from:  11102
+		To:  11163
+		True from:  11185
+		To:  11224
+		True from:  11249
+		To:  11411
+		True from:  11413
+		To:  11464
+		True from:  11465
+		To:  11468
+		True from:  11495
+		To:  11614
+		True from:  11618
+		To:  11619
+		True from:  11633
+		To:  11720
+		True from:  11740
+		To:  11741
+		True from:  11744
+		To:  11747
+		True from:  11758
+		To:  11842
+		True from:  11868
+		To:  11871
+		True from:  11877
+		To:  11932
+		True from:  11946
+		To:  12051
+		True from:  12056
+		To:  12069
+		True from:  12071
+		To:  12084
+		True from:  12090
+		To:  12133
+		True from:  12150
+		To:  12238
+		True from:  12239
+		To:  12240
+		True from:  12243
+		To:  12358
+		True from:  12362
+		To:  12407
+		True from:  12413
+		To:  12453
+		True from:  12482
+		To:  12494
+		True from:  12497
+		To:  12514
+		True from:  12516
+		To:  12527
+		True from:  12528
+		To:  12529
+		True from:  12542
+		To:  12547
+		True from:  12548
+		To:  12579
+		True from:  12601
+		To:  12732
+		True from:  12737
+		To:  12778
+		True from:  12781
+		To:  12820
+		True from:  12823
+		To:  12824
+		True from:  12827
+		To:  12865
+		True from:  12866
+		To:  12961
+		True from:  12965
+		To:  12967
+		True from:  12985
+		To:  13155
+		True from:  13159
+		To:  13162
+		True from:  13164
+		To:  13171
+		True from:  13179
+		To:  13180
+		True from:  13181
+		To:  13266
+		True from:  13267
+		To:  13304
+		True from:  13305
+		To:  13308
+		True from:  13320
+		To:  13325
+		True from:  13328
+		To:  13329
+		True from:  13332
+		To:  13340
+		True from:  13357
+		To:  13362
+		True from:  13364
+		To:  13462
+		True from:  13464
+		To:  13468
+		True from:  13472
+		To:  13561
+	False positives: 8787 / 0
+	True Negatives: 3843 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  1591
+		True from:  12870
+		To:  12896
+	False positives: 608 / 0
+	True Negatives: 11309 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  5460
+		To:  5931
+		True from:  6021
+		To:  6096
+		True from:  6106
+		To:  6112
+		True from:  6152
+		To:  6204
+		True from:  6217
+		To:  6218
+		True from:  6219
+		To:  6239
+		True from:  6254
+		To:  6306
+		True from:  6319
+		To:  6359
+		True from:  6360
+		To:  6427
+		True from:  6458
+		To:  6461
+		True from:  6510
+		To:  6559
+		True from:  6566
+		To:  6568
+		True from:  6599
+		To:  6607
+		True from:  6634
+		To:  6708
+		True from:  6727
+		To:  6731
+		True from:  6732
+		To:  6738
+		True from:  6795
+		To:  6911
+		True from:  6918
+		To:  6945
+		True from:  6950
+		To:  6954
+		True from:  6965
+		To:  6967
+		True from:  6968
+		To:  7017
+		True from:  7047
+		To:  7089
+		True from:  8831
+		To:  8856
+		True from:  8879
+		To:  8889
+		True from:  8933
+		To:  8937
+		True from:  8944
+		To:  8951
+		True from:  8961
+		To:  8965
+		True from:  8979
+		To:  9011
+		True from:  9045
+		To:  9079
+		True from:  9115
+		To:  9118
+		True from:  9142
+		To:  9144
+		True from:  9146
+		To:  9148
+		True from:  9154
+		To:  9163
+		True from:  9190
+		To:  9193
+	False positives: 1305 / 0
+	True Negatives: 10775 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  1010
+	False positives: 1 / 0
+	True Negatives: 11913 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1077
+		To:  1104
+		True from:  1172
+		To:  1211
+		True from:  1221
+		To:  1223
+		True from:  1230
+		To:  1232
+		True from:  1233
+		To:  1246
+		True from:  1252
+		To:  1314
+		True from:  1358
+		To:  1404
+		True from:  1437
+		To:  1513
+		True from:  1518
+		To:  1520
+		True from:  1535
+		To:  1541
+		True from:  1545
+		To:  1711
+		True from:  1722
+		To:  1820
+		True from:  1846
+		To:  1875
+		True from:  1925
+		To:  1969
+		True from:  2003
+		To:  2056
+		True from:  2115
+		To:  2168
+		True from:  2193
+		To:  2224
+		True from:  2249
+		To:  2253
+		True from:  2262
+		To:  2267
+		True from:  2268
+		To:  2272
+		True from:  2279
+		To:  2318
+		True from:  2380
+		To:  2454
+		True from:  2526
+		To:  2528
+		True from:  2531
+		To:  2532
+		True from:  2537
+		To:  2550
+		True from:  2581
+		To:  2583
+		True from:  2587
+		To:  2648
+		True from:  2744
+		To:  2747
+		True from:  2781
+		To:  2844
+		True from:  2845
+		To:  2846
+		True from:  2857
+		To:  2858
+		True from:  2859
+		To:  2861
+		True from:  2868
+		To:  2912
+		True from:  2919
+		To:  2921
+		True from:  2976
+		To:  2988
+		True from:  3012
+		To:  3021
+		True from:  3022
+		To:  3026
+		True from:  3078
+		To:  3086
+		True from:  3094
+		To:  3101
+		True from:  3109
+		To:  3121
+		True from:  3182
+		To:  3206
+		True from:  3281
+		To:  3283
+		True from:  3378
+		To:  3400
+	False positives: 1170 / 0
+	True Negatives: 1347 / 2517 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To:  1089
+		True from:  1091
+		To:  1126
+		True from:  1129
+		To:  1138
+		True from:  1144
+		To:  1147
+		True from:  1163
+		To:  1169
+		True from:  1172
+		To:  1190
+		True from:  1195
+		To:  1199
+		True from:  1213
+		To:  1221
+		True from:  1223
+		To:  1232
+		True from:  1294
+		To:  1306
+		True from:  1330
+		To:  1472
+		True from:  1474
+		To:  1475
+		True from:  1499
+		To:  1505
+		True from:  1506
+		To:  1511
+		True from:  1535
+		To:  1608
+		True from:  1609
+		To:  1613
+		True from:  1637
+		To:  1638
+		True from:  1640
+		To:  1735
+		True from:  1763
+		To:  1793
+		True from:  1798
+		To:  1799
+		True from:  1806
+		To:  1828
+		True from:  1850
+		To:  1893
+		True from:  1895
+		To:  1902
+		True from:  1938
+		To:  1971
+		True from:  1972
+		To:  1992
+		True from:  1994
+		To:  1998
+		True from:  2004
+		To:  2047
+		True from:  2074
+		To:  2088
+		True from:  2091
+		To:  2092
+		True from:  2130
+		To:  2131
+		True from:  2136
+		To:  2180
+		True from:  2181
+		To:  2184
+		True from:  2193
+		To:  2220
+		True from:  2271
+		To:  2300
+		True from:  2302
+		To:  2329
+		True from:  2345
+		To:  2350
+		True from:  2351
+		To:  2373
+		True from:  2425
+		To:  2431
+		True from:  2441
+		To:  2467
+		True from:  2512
+		To:  2513
+		True from:  2515
+		To:  2516
+		True from:  2520
+		To:  2533
+		True from:  2535
+		To:  2575
+		True from:  2584
+		To:  2585
+		True from:  2597
+		To:  2656
+		True from:  2661
+		To:  2676
+		True from:  2678
+		To:  2798
+		True from:  2801
+		To:  2805
+		True from:  2807
+		To:  2966
+		True from:  3001
+		To:  3002
+		True from:  3004
+		To:  3094
+		True from:  3105
+		To:  3286
+		True from:  3302
+		To:  3303
+		True from:  3305
+		To:  3306
+		True from:  3345
+		To:  3349
+		True from:  3356
+		To:  3360
+		True from:  3451
+		To:  3495
+		True from:  3509
+		To:  3510
+		True from:  3513
+		To end: 3525
+	False positives: 1672 / 0
+	True Negatives: 845 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To:  2759
+		True from:  2845
+		To:  3453
+		True from:  3511
+		To end: 3525
+	False positives: 2373 / 0
+	True Negatives: 144 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1059
+		True from:  3291
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 228 / 0
+	True Negatives: 2289 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  1430
+		True from:  1434
+		To:  2196
+		True from:  2202
+		To:  2734
+		True from:  2753
+		To:  2755
+		True from:  2861
+		To:  2945
+		True from:  2954
+		To:  3029
+		True from:  3034
+		To:  3337
+		True from:  3338
+		To:  3524
+		True from:  3525
+		To end: 3525
+	False positives: 2366 / 0
+	True Negatives: 151 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 56229 / 0
+True Negatives: 115824 / 172053
+Errors: 0
+
+Calculating: 50.243.6.69
+	False from:  2794
+	To:  2814
+True positives: 2497 / 2517
+False negatives: 20 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1790
+		To:  1869
+		True from:  4888
+		To:  6098
+		True from:  6107
+		To:  6911
+		True from:  6933
+		To:  8384
+		True from:  8404
+		To end: 9587
+	False positives: 4728 / 0
+	True Negatives: 3851 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  4116
+		True from:  6057
+		To:  7017
+		True from:  7134
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 6329 / 0
+	True Negatives: 2250 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1791
+		To:  1870
+		True from:  4889
+		To:  6911
+		True from:  6932
+		To end: 9587
+	False positives: 4757 / 0
+	True Negatives: 3822 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  6898
+		To:  7069
+		True from:  13095
+		To:  15390
+		True from:  15413
+		To:  16212
+		True from:  16214
+		To:  16217
+		True from:  16218
+		To:  16222
+		True from:  16230
+		To:  16308
+		True from:  16330
+		To:  16456
+		True from:  16459
+		To:  16466
+		True from:  16467
+		To:  16470
+		True from:  16471
+		To:  16813
+		True from:  16814
+		To:  16973
+		True from:  16981
+		To:  17180
+		True from:  17181
+		To:  17182
+		True from:  17219
+		To:  17272
+		True from:  17280
+		To:  17281
+		True from:  17319
+		To:  17347
+		True from:  17393
+		To:  17399
+		True from:  17400
+		To:  17417
+		True from:  17422
+		To:  17427
+		True from:  17430
+		To:  17432
+		True from:  17460
+		To:  17501
+		True from:  17522
+		To:  17698
+		True from:  17704
+		To:  17709
+		True from:  17710
+		To:  17779
+		True from:  17808
+		To:  17810
+		True from:  17812
+		To:  17819
+		True from:  17824
+		To:  17938
+		True from:  17941
+		To:  17952
+		True from:  17961
+		To:  18079
+		True from:  18101
+		To:  18229
+		True from:  18230
+		To:  18232
+		True from:  18253
+		To:  18255
+		True from:  18256
+		To:  18335
+		True from:  18336
+		To:  18464
+		True from:  18469
+		To:  18479
+		True from:  18488
+		To:  18490
+		True from:  18507
+		To:  18546
+		True from:  18549
+		To:  18651
+		True from:  18652
+		To:  18728
+		True from:  18737
+		To:  18918
+		True from:  18971
+		To end: 18984
+	False positives: 5605 / 0
+	True Negatives: 12371 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1798
+		To:  1802
+		True from:  1803
+		To:  1805
+		True from:  1807
+		To:  1810
+		True from:  1813
+		To:  1870
+		True from:  4888
+		To:  6029
+		True from:  6033
+		To:  6034
+		True from:  6049
+		To:  6266
+		True from:  6268
+		To:  6911
+		True from:  6934
+		To:  9538
+		True from:  9540
+		To:  9541
+		True from:  9578
+		To end: 9587
+	False positives: 4683 / 0
+	True Negatives: 3896 / 8579 
+
+	Checking against: 136.36.203.65
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1791
+		To:  1871
+		True from:  4888
+		To:  6042
+		True from:  6050
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 4750 / 0
+	True Negatives: 3829 / 8579 
+
+	Checking against: byu.edu
+		True from:  5841
+		To:  5921
+		True from:  8941
+		To:  9870
+		True from:  9875
+		To:  10081
+		True from:  10103
+		To:  10951
+		True from:  10955
+		To:  10958
+		True from:  10984
+		To:  12969
+		True from:  12982
+		To:  13469
+		True from:  13475
+		To:  13575
+		True from:  13633
+		To:  13634
+	False positives: 4639 / 0
+	True Negatives: 7991 / 12630 
+
+	Checking against: 136.36.62.167
+	False positives: 0 / 0
+	True Negatives: 11917 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  2909
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 560 / 0
+	True Negatives: 1957 / 2517 
+
+	Checking against: 107.77.229.185
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 36051 / 0
+True Negatives: 136002 / 172053
+Errors: 0
+
+Calculating: 107.77.229.185
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 174.52.180.239
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.31
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 76.8.213.221
+	False positives: 0 / 0
+	True Negatives: 17976 / 17976 
+
+	Checking against: 76.8.213.231
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 136.36.203.65
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: 66.219.235.215
+	False positives: 0 / 0
+	True Negatives: 8579 / 8579 
+
+	Checking against: byu.edu
+	False positives: 0 / 0
+	True Negatives: 12630 / 12630 
+
+	Checking against: 136.36.62.167
+	False positives: 0 / 0
+	True Negatives: 11917 / 11917 
+
+	Checking against: 97.117.140.93
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 72.160.10.9
+	False positives: 0 / 0
+	True Negatives: 12080 / 12080 
+
+	Checking against: 75.174.31.107
+	False positives: 0 / 0
+	True Negatives: 11914 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1074
+		To:  1081
+		True from:  1085
+		To:  1111
+		True from:  1178
+		To:  1182
+		True from:  1190
+		To:  1204
+		True from:  1205
+		To:  1219
+		True from:  1228
+		To:  1236
+		True from:  1238
+		To:  1239
+		True from:  1244
+		To:  1246
+		True from:  1276
+		To:  1325
+		True from:  1379
+		To:  1404
+		True from:  1427
+		To:  1439
+		True from:  1444
+		To:  1451
+		True from:  1463
+		To:  1474
+		True from:  1526
+		To:  1529
+		True from:  1567
+		To:  1579
+		True from:  1580
+		To:  1602
+		True from:  1653
+		To:  1695
+		True from:  1700
+		To:  1703
+		True from:  1751
+		To:  1759
+		True from:  1761
+		To:  1764
+		True from:  1769
+		To:  1774
+		True from:  1811
+		To:  1832
+		True from:  1845
+		To:  1846
+		True from:  1847
+		To:  1868
+		True from:  1870
+		To:  1871
+		True from:  1980
+		To:  1982
+		True from:  2017
+		To:  2022
+		True from:  2043
+		To:  2044
+		True from:  2072
+		To:  2079
+		True from:  2080
+		To:  2086
+		True from:  2121
+		To:  2131
+		True from:  2132
+		To:  2147
+		True from:  2534
+		To:  2536
+		True from:  2538
+		To:  2539
+	False positives: 371 / 0
+	True Negatives: 2146 / 2517 
+
+	Checking against: 216.169.95.224
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 72.12.242.27
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.90.3
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.207.43.226
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.49.97.245
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 68.70.234.81
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 65.130.169.190
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 76.27.5.119
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 50.243.6.69
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 74.92.245.166
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+	Checking against: 67.2.29.133
+	False positives: 0 / 0
+	True Negatives: 2517 / 2517 
+
+False positives: 371 / 0
+True Negatives: 171682 / 172053
+Errors: 0
+
+Calculating: 74.92.245.166
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  6912
+		True from:  6931
+		To end: 9587
+	False positives: 8560 / 0
+	True Negatives: 19 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  6030
+		True from:  6054
+		To:  7526
+		True from:  7550
+		To:  8894
+		True from:  8926
+		To end: 9587
+	False positives: 8499 / 0
+	True Negatives: 80 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  6911
+		True from:  6932
+		To end: 9587
+	False positives: 8558 / 0
+	True Negatives: 21 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  16308
+		True from:  16330
+		To end: 18984
+	False positives: 17931 / 0
+	True Negatives: 45 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  6911
+		True from:  6932
+		To end: 9587
+	False positives: 8558 / 0
+	True Negatives: 21 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  6911
+		True from:  6932
+		To end: 9587
+	False positives: 8558 / 0
+	True Negatives: 21 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  10962
+		True from:  10984
+		To end: 13638
+	False positives: 12605 / 0
+	True Negatives: 25 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To:  10856
+		True from:  10873
+		To end: 12925
+	False positives: 11900 / 0
+	True Negatives: 17 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1143
+		To:  1393
+		True from:  2822
+		To:  4389
+		True from:  5459
+		To:  5933
+		True from:  6019
+		To:  7093
+		True from:  8827
+		To:  9197
+	False positives: 3735 / 0
+	True Negatives: 8345 / 12080 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To:  7846
+	False positives: 6837 / 0
+	True Negatives: 5243 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To:  10966
+		True from:  10985
+		To:  11043
+		True from:  11044
+		To end: 12922
+	False positives: 11894 / 0
+	True Negatives: 20 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To end: 3525
+	False positives: 2383 / 0
+	True Negatives: 134 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.2.29.133
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+False positives: 146284 / 0
+True Negatives: 25769 / 172053
+Errors: 0
+
+Calculating: 67.2.29.133
+True positives: 2517 / 2517
+False negatives: 0 / 0
+Errors: 0
+	Checking against: 66.219.236.117
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 174.52.180.239
+		True from:  1009
+		To:  5664
+		True from:  5684
+		To:  6030
+		True from:  6057
+		To:  7523
+		True from:  7552
+		To:  8821
+		True from:  8926
+		To:  9516
+		True from:  9574
+		To end: 9587
+	False positives: 8340 / 0
+	True Negatives: 239 / 8579 
+
+	Checking against: 66.219.235.31
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: 76.8.213.221
+		True from:  1009
+		To:  4988
+		True from:  5011
+		To:  7070
+		True from:  13095
+		To:  16191
+		True from:  16233
+		To:  16280
+		True from:  16284
+		To:  16292
+		True from:  16333
+		To:  16347
+		True from:  16349
+		To:  16350
+		True from:  16359
+		To:  16505
+		True from:  16522
+		To:  16523
+		True from:  16579
+		To:  16580
+		True from:  16582
+		To:  16619
+		True from:  16637
+		To:  16639
+		True from:  16643
+		To:  16692
+		True from:  16704
+		To:  16725
+		True from:  16746
+		To:  16761
+		True from:  16794
+		To:  16795
+		True from:  16796
+		To:  16803
+		True from:  16828
+		To:  16832
+		True from:  16833
+		To:  16834
+		True from:  16858
+		To:  16919
+		True from:  16941
+		To:  16942
+		True from:  16943
+		To:  16965
+		True from:  16966
+		To:  16968
+		True from:  17000
+		To:  17005
+		True from:  17018
+		To:  17026
+		True from:  17028
+		To:  17068
+		True from:  17071
+		To:  17073
+		True from:  17091
+		To:  17094
+		True from:  17099
+		To:  17104
+		True from:  17118
+		To:  17179
+		True from:  17199
+		To:  17202
+		True from:  17203
+		To:  17273
+		True from:  17280
+		To:  17283
+		True from:  17287
+		To:  17288
+		True from:  17298
+		To:  17299
+		True from:  17301
+		To:  17302
+		True from:  17319
+		To:  17347
+		True from:  17360
+		To:  17361
+		True from:  17365
+		To:  17369
+		True from:  17371
+		To:  17400
+		True from:  17405
+		To:  17417
+		True from:  17421
+		To:  17436
+		True from:  17451
+		To:  17455
+		True from:  17456
+		To:  17457
+		True from:  17458
+		To:  17478
+		True from:  17479
+		To:  17499
+		True from:  17513
+		To:  17524
+		True from:  17529
+		To:  17538
+		True from:  17548
+		To:  17555
+		True from:  17556
+		To:  17627
+		True from:  17639
+		To:  17730
+		True from:  17736
+		To:  17784
+		True from:  17801
+		To:  17899
+		True from:  17903
+		To:  17909
+		True from:  17922
+		To:  17951
+		True from:  17979
+		To:  18036
+		True from:  18043
+		To:  18044
+		True from:  18056
+		To:  18058
+		True from:  18060
+		To:  18080
+		True from:  18108
+		To:  18158
+		True from:  18172
+		To:  18176
+		True from:  18177
+		To:  18206
+		True from:  18214
+		To:  18240
+		True from:  18250
+		To:  18295
+		True from:  18317
+		To:  18437
+		True from:  18439
+		To:  18445
+		True from:  18451
+		To:  18465
+		True from:  18469
+		To:  18600
+		True from:  18601
+		To:  18602
+		True from:  18605
+		To:  18607
+		True from:  18617
+		To:  18618
+		True from:  18619
+		To:  18620
+		True from:  18624
+		To:  18639
+		True from:  18642
+		To:  18649
+		True from:  18652
+		To:  18670
+		True from:  18671
+		To:  18680
+		True from:  18690
+		To:  18761
+		True from:  18794
+		To:  18831
+		True from:  18842
+		To:  18916
+		True from:  18942
+		To:  18943
+		True from:  18949
+		To end: 18984
+	False positives: 11060 / 0
+	True Negatives: 6916 / 17976 
+
+	Checking against: 76.8.213.231
+		True from:  1009
+		To:  1869
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5538 / 0
+	True Negatives: 3041 / 8579 
+
+	Checking against: 136.36.203.65
+		True from:  1009
+		To end: 9587
+	False positives: 8579 / 0
+	True Negatives: 0 / 8579 
+
+	Checking against: 66.219.235.215
+		True from:  1009
+		To:  1870
+		True from:  4888
+		To:  6911
+		True from:  6933
+		To end: 9587
+	False positives: 5539 / 0
+	True Negatives: 3040 / 8579 
+
+	Checking against: byu.edu
+		True from:  1009
+		To:  4881
+		True from:  4884
+		To:  5921
+		True from:  8940
+		To:  10961
+		True from:  10984
+		To end: 13638
+	False positives: 9585 / 0
+	True Negatives: 3045 / 12630 
+
+	Checking against: 136.36.62.167
+		True from:  1009
+		To end: 12925
+	False positives: 11917 / 0
+	True Negatives: 0 / 11917 
+
+	Checking against: 97.117.140.93
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 72.160.10.9
+		True from:  1009
+		To end: 13088
+	False positives: 12080 / 0
+	True Negatives: 0 / 12080 
+
+	Checking against: 75.174.31.107
+		True from:  1009
+		To end: 12922
+	False positives: 11914 / 0
+	True Negatives: 0 / 11914 
+
+	Checking against: 69.73.60.141
+	False positives: 0 / 0
+	True Negatives: 11778 / 11778 
+
+	Checking against: 24.49.163.147
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 216.169.95.224
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 72.12.242.27
+		True from:  1067
+		To end: 3525
+	False positives: 2459 / 0
+	True Negatives: 58 / 2517 
+
+	Checking against: 65.49.90.3
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 67.207.43.226
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.49.97.245
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 68.70.234.81
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 65.130.169.190
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 76.27.5.119
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2864
+		To:  3454
+		True from:  3511
+		To end: 3525
+	False positives: 2326 / 0
+	True Negatives: 191 / 2517 
+
+	Checking against: 50.243.6.69
+		True from:  1009
+		To:  1460
+		True from:  1489
+		To:  2759
+		True from:  2865
+		To end: 3525
+	False positives: 2382 / 0
+	True Negatives: 135 / 2517 
+
+	Checking against: 107.77.229.185
+		True from:  1009
+		To end: 3525
+	False positives: 2517 / 0
+	True Negatives: 0 / 2517 
+
+	Checking against: 74.92.245.166
+		True from:  1009
+		To:  2759
+		True from:  2861
+		To end: 3525
+	False positives: 2415 / 0
+	True Negatives: 102 / 2517 
+
+False positives: 137370 / 0
+True Negatives: 34683 / 172053
+Errors: 0
