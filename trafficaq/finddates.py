@@ -27,7 +27,6 @@ fin.close()
 fout.close()
 '''
 
-
 #bargraph.py////////////////////////////////////////////////////////////////////////////////////////////////////////
 import numpy as np
 import matplotlib.pyplot as plt
@@ -54,61 +53,39 @@ def correct_finder(file,param=['False ne','True pos','False po','True Neg']):
                         print(ping_list[-1])
                         print(ping_list[-3])
     return (ping_list)
-"""iteration=iter(correct_finder('/home/kyle2004/IOT/manualanalisys-v4.0 copy.txt'))
-dic=dict(zip(iteration,iteration))
-print(dic)"""#failure do to overwriting dictionary entries with the same name
-"""my_list=correct_finder('/home/kyle2004/IOT/manualanalisys-v4.0 copy.txt')
-new=[my_list[i] for i in range(len(my_list)) if i%2!=0]
-#print(new)
-import numpy as np
-from matplotlib import pyplot as plt"""
-def bargraph(list):
-    x=[i for i in range(len(list))]
-    plt.bar(x,list)
-    plt.xlabel("X")
-    plt.ylabel("Y")
-    plt.title("TITLE")
-    return plt.show()
-
-def bars(list):
-    x=[i for i in range(len(list))]
-    plt.bar(x,list)
-    plt.xlabel("X")
-    plt.ylabel("Y")
-    plt.title("TITLE")
-
-"""for i in range(len(new)):
-    if i%4==0:
-        bars(new[i:i+4])#maybe try adding them all together?
-plt.show()"""
-
-def march(val=0):
-    if val<3 :
-        val+=1
-    else:
-        val=0
-    return val
-
-
-"""tot_list=[0,0,0,0]
-val=0
-for i in range(len(new)):
-    tot_list[val]+=new[i]
-    val=march(val)
-
-print(sum(new))#currently only worth 16 data vals,should be 26
-print(len(my_list))
-bargraph(tot_list)"""
-#print(correct_finder('/home/kyle2004/IOT/manualanalisys-v4.0 copy.txt')[:10])
-
-#d = dict(zip(*[iter(some_list)] * 2))
-
-
-#bargraph(correct_finder('/home/kyle2004/IOT/manualanalisys-v4.0 copy.txt')[:10])
 #end copy///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 with open('utah_SLC_2021_all.csv', 'r') as myfile:
     data=myfile.read()
     data = data[60:]
     data=[i.strip().split() for i in data.split(' \\n') if len(i.strip())>0]
-print(data[0][0][0:15]) ##this goes [all][which line][how many characters]--want last to be comma seperated
+    data=data[0]
+#print(data[0][0:15]) ##this goes [which line][how many characters]--want last to be comma seperated
+
+def gapfindersite(data,siteID,diff=30):#site ID needs to be a string
+    dates=[]
+    data=[line.split(",") for line in data]
+    data=[line for line in data if line[1]==siteID]
+    previousday=data[0][2]
+    print("first day check:",previousday)
+    for line in data:
+        if abs(eval(previousday)-eval(line[2])) >=diff:
+            if line[0] not in dates:
+                dates.append(line[0])
+        previousday=line[2]
+
+    return dates
+#print(gapfindersite(data,"490352005"))
+
+def gapfinder(data,diff=30):
+    dates=[]
+    data=[line.split(",") for line in data]
+    previousday=data[0][2]
+    print("first day check:",previousday)
+    for line in data:
+        if abs(eval(previousday)-eval(line[2])) >=diff:
+            if line[0] not in dates:
+                dates.append(line[0])
+        previousday=line[2]
+    return dates
+print(gapfinder(data,))
