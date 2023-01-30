@@ -1,13 +1,30 @@
-with open('utah_SLC_2021_all.csv', 'r') as myfile:
-    data=myfile.read()
-    data = data[60:]
-    data=[i.strip().split() for i in data.split(' \\n') if len(i.strip())>0]
-    data=data[0]
+#for mod to be True:
+#
+#the only columns that need to be deleted are source and POC however,
+#the way I changed the csv was by deleting the columns titled source, POC, units, site name, and everything right of site name
+
+import csv
+
+def opener(file,mod):
+    path = "utah_SLC_2021_all.csv"
+    lines=[]
+    if mod:
+        with open(path, newline='') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',')
+            for row in reader:
+                lines.append([row[0],row[1],row[2]])
+    else:
+        with open(path, newline='') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',')
+            for row in reader:
+                lines.append([row[0],row[2],row[4]])
+    lines=lines[1:]
+    return lines
 #print(data[0][0:15]) ##this goes [which line][how many characters]--want last to be comma seperated sometimes --error when try to do this with the dates as it tries to eval a date and does want to divide 0X
 
-def gapfindersite(data,siteID,diff=30):#site ID needs to be a string
+def gapfindersite(file,siteID,diff=30,mod=True):#site ID needs to be a string
+    data = opener(file,mod)
     dates=[]
-    data=[line.split(",") for line in data]
     data=[line for line in data if line[1]==siteID]
     previousday=data[0][2]
     print("first day check:",previousday)
@@ -18,11 +35,12 @@ def gapfindersite(data,siteID,diff=30):#site ID needs to be a string
         previousday=line[2]
 
     return dates
-#print(gapfindersite(data,"490352005"))
+print(gapfindersite('utah_SLC_2021_all.csv',"490352005"))
 
-def gapfinder(data,diff=30):
+def gapfinder(file,diff=30,mod=True):
+    data = opener(file,mod)
     dates=[]
-    data=[line.split(",") for line in data]
+    #data=[line.split(",") for line in data]
     previousday=data[0][2]
     print("first day check:",previousday)
     for line in data:
@@ -31,4 +49,4 @@ def gapfinder(data,diff=30):
                 dates.append(line[0])
         previousday=line[2]
     return dates
-print(gapfinder(data,))
+print(gapfinder('utah_SLC_2021_all.csv'))
