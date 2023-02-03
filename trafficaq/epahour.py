@@ -22,9 +22,10 @@ def firstvalue(data):
             return data[i][-1] 
         i+=1
 
-def gapfinder(file,state='49',diff=30):#returns all the times for the given state where the diff was reached --may run errors when reaching the end of 1 year and starting a year on a different station 
+#returns all the times for the given state where the diff was reached and how many stations recorded that diff
+def gapfinder(file,state='49',diff=30):#may run errors when reaching the end of 1 year and starting a year on a different station 
     data = opener(file,state)
-    dates=[]
+    dates={}
     missing=[]
     previousday=firstvalue(data)
     print("first day check:",previousday)
@@ -32,10 +33,12 @@ def gapfinder(file,state='49',diff=30):#returns all the times for the given stat
         try:
             if abs(eval(previousday)-eval(line[-1])) >=diff:
                 if line[-2] not in dates:
-                    dates.append(line[-2])
+                    dates[line[-2]]=1
+                else:
+                    dates[line[-2]]+=1
             previousday=line[-1]
         except SyntaxError:
             missing.append(line[-2])
-    print("# of dates missing",len(missing))
+    # print("# of dates missing",len(missing))
     return dates
-print(gapfinder('hourly_88101_2022.csv'))
+print(gapfinder('hourly_88101_2021.csv'))
