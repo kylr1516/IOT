@@ -6,7 +6,7 @@
 import csv
 
 def opener(file,mod):
-    path = "utah_SLC_2021_all.csv"
+    path = file
     lines=[]
     if mod:
         with open(path, newline='') as csvfile:
