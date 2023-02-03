@@ -1,5 +1,3 @@
-#look at the file to determine which column you need. I'm not coding that mess
-
 import csv
 
 def opener(file,col):#opens the csv file
@@ -10,7 +8,7 @@ def opener(file,col):#opens the csv file
         for row in reader:
             lines.append([row[0],row[col]])
     return lines
-#print(opener("2021-PM2.5.csv",11)[:10]) 
+#print(opener("2021-PM2.5.csv",11)[:10]) #look at the file to determine which column you need. I'm not coding that mess
 
 def firstvalue(data):
     i=0
@@ -24,7 +22,7 @@ def gapfinder(file,diff=30,col=2):#returns all the times for the given column wh
     data=data[1:]
     dates=[]
     missing=[]
-    previousday=firstvalue(data) #WARNING if this is not a value the whole list will be invalidated?
+    previousday=firstvalue(data)
     # print("first day check:",previousday)
     for line in data:
         try:
@@ -51,6 +49,6 @@ def time_dictionary(file,cols=22,diff=30):#returns dict of all the time and date
     return all_times
 # print(time_dictionary('2021-PM2.5.csv'))
 time_dic=time_dictionary('2021-PM2.5.csv')
-for date in (time_dictionary('2021-PM2.5.csv')):
+for date in (time_dic):
     print(date)
     print(len(time_dic[date]))
