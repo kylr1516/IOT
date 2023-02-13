@@ -1,0 +1,79 @@
+for Lindon:
+    18029
+    17772
+    18030
+    401
+    15755
+for copperview
+    17067
+    195
+    87
+    86
+    17561
+    17241
+    14817
+    17557
+    17560
+    85
+for near road:
+    94
+    16835
+    16422
+    95
+    96
+for roosevelt:
+    16584
+    16710
+    16718
+for vernal:
+    16586
+    15305
+    15304
+    17769
+for price #2:
+    18034
+    17310
+    17309
+    17308
+for enoch:
+    17967 
+    17504
+    18075
+    17995
+    16084
+for hurricane:
+    16677
+    16679
+    16678
+    18015
+for Herriman #3:
+    17369
+for erda:
+    15007
+    17976
+none for lakepark
+for Hawthorne:
+    16330
+    16331
+    16324
+for AMC/EQ:
+    16771
+    16776
+    41
+    40
+    51
+for Rose Park:
+    276
+    5121
+for inland Port/prison:
+    the camera at I80 EB @ Milepost 107.24 SL //this is a gif on the website
+for Bountiful/Viewmount:
+    16867
+    436
+    5131
+for Harrisville:
+    15002
+    17397
+    17499
+for Smithfield:
+    16479
