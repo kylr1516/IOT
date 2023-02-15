@@ -66,7 +66,7 @@ mkdir -p "$PWD/images/$YEAR/$MONTH/$DAY"
 
 #Copying the files over and making sure they have the correct permisions so that we can view them
 cp -av "$PWD/mnt/$CAMERA/$YEAR/$MONTH/$DAY/." "$PWD/images/$YEAR/$MONTH/$DAY/"
-chown -R carter:carter "$PWD/images/"
+chown -R kyle2004:kyle2004 "$PWD/images/"
 chmod 660 "$PWD/images/$YEAR/$MONTH/$DAY/"*
 
 

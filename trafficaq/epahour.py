@@ -1,4 +1,5 @@
 import csv
+import sys
 
 def opener(file,state): #Utah is state code 49
     path = file
@@ -23,8 +24,16 @@ def firstvalue(data):
         i+=1
 
 #returns all the times for the given state where the diff was reached and how many stations recorded that diff
-def gapfinder(file,state='49',diff=30):#may run errors when reaching the end of 1 year and starting a year on a different station 
-    data = opener(file,state)
+def gapfinder(file,state='49',diff=30,stationcode=0):#may run errors when reaching the end of 1 year and starting a year on a different station 
+    rawdata = opener(file,state)
+    if stationcode:
+        data=[]
+        for line in rawdata:
+            if line[0]==stationcode:
+                data.append(line)
+
+    else:
+        data=rawdata
     dates={}
     missing=[]
     previousday=firstvalue(data)
@@ -39,6 +48,20 @@ def gapfinder(file,state='49',diff=30):#may run errors when reaching the end of 
             previousday=line[-1]
         except SyntaxError:
             missing.append(line[-2])
-    # print("# of dates missing",len(missing))
+    print("# of dates missing",len(missing))
     return dates
-print(gapfinder('hourly_88101_2021.csv'))
+# print(gapfinder('hourly_88101_2021.csv',stationcode='490354002',diff=30))
+
+def site_csv_maker(file,stationcode,writefile,state='49'):
+    rawdata = opener(file,state)
+    data=[]
+    for line in rawdata:
+        if line[0]==stationcode:
+            data.append(line)
+    orig_std_out= sys.stdout
+    with open(writefile,'w') as f:
+        sys.stdout=f
+        for lines in data:
+            print(lines)
+        sys.stdout=orig_std_out
+site_csv_maker('hourly_88101_2021.csv','490354002','490354002.csv')
