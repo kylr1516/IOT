@@ -23,7 +23,7 @@ def firstvalue(data):
             return data[i][-1] 
         i+=1
 
-#returns all the times for the given state where the diff was reached and how many stations recorded that diff
+#returns all the times for the given state where the diff was reached and how many stations recorded that diff as a dictionary
 def gapfinder(file,state='49',diff=30,stationcode=0):#may run errors when reaching the end of 1 year and starting a year on a different station 
     rawdata = opener(file,state)
     if stationcode:
@@ -42,6 +42,7 @@ def gapfinder(file,state='49',diff=30,stationcode=0):#may run errors when reachi
         try:
             if abs(eval(previousday)-eval(line[-1])) >=diff:
                 if line[-2] not in dates:
+                    print(line[-1])
                     dates[line[-2]]=1
                 else:
                     dates[line[-2]]+=1
@@ -50,7 +51,8 @@ def gapfinder(file,state='49',diff=30,stationcode=0):#may run errors when reachi
             missing.append(line[-2])
     print("# of dates missing",len(missing))
     return dates
-# print(gapfinder('hourly_88101_2021.csv',stationcode='490354002',diff=30))
+print(gapfinder('hourly_88101_2021.csv',stationcode='490353013'))
+
 
 def site_csv_maker(file,stationcode,writefile,state='49'):
     rawdata = opener(file,state)
@@ -64,4 +66,8 @@ def site_csv_maker(file,stationcode,writefile,state='49'):
         for lines in data:
             print(lines)
         sys.stdout=orig_std_out
-site_csv_maker('hourly_88101_2021.csv','490354002','490354002.csv')
+# site_csv_maker('hourly_88101_2021.csv','490353013','490353013.csv')
+
+
+# stations of note= 490353013, 490450004, 490494001, 490353016, 490495010, 490353013, 490352005, 490353015, 490494002
+#most of these spikes occured in august and on the 6th and 18th

@@ -16,7 +16,7 @@ for copperview
     17560-
     85
 for near road:
-    94
+    94 //this significantly changed 8 times in the week of august 1-7 2021 --not counting all of the wobble
     16835
     16422
     95
