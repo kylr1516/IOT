@@ -56,20 +56,55 @@ echo "\nMonths avalible:"
 ls "$PWD/mnt/$CAMERA/$YEAR"
 read -p "Month: " MONTH
 
-echo "\nDays avalible:"
-ls "$PWD/mnt/$CAMERA/$YEAR/$MONTH"
-read -p "Day: " DAY
+# echo "\nDays avalible:"
+# ls "$PWD/mnt/$CAMERA/$YEAR/$MONTH"
+# read -p "Day: " DAY
 
 #Clearning up the image folder so that it doesn't get crouded upon multiple itterations
 rm -r "$PWD/images"
-mkdir -p "$PWD/images/$YEAR/$MONTH/$DAY"
+mkdir -p "$PWD/images/$YEAR/$MONTH"
+
+#need to add back /DAY from above and below
 
 #Copying the files over and making sure they have the correct permisions so that we can view them
-cp -av "$PWD/mnt/$CAMERA/$YEAR/$MONTH/$DAY/." "$PWD/images/$YEAR/$MONTH/$DAY/"
+cp -a "$PWD/mnt/$CAMERA/$YEAR/$MONTH/." "$PWD/images/$YEAR/$MONTH/"
+echo "Printed"
 chown -R kyle2004:kyle2004 "$PWD/images/"
-chmod 660 "$PWD/images/$YEAR/$MONTH/$DAY/"*
+chmod -R 664 "$PWD/images/$YEAR/$MONTH/"*
+echo "permissions"
 
 
 #Unmounting and cleaning up mnt
 umount "$PWD/mnt/$CAMERA"
 rmdir "$PWD/mnt/$CAMERA"
+
+find "$PWD/images/$YEAR/$MONTH/" -type f -print0 | xargs -0 mv -t "$PWD/images/$YEAR/$MONTH"  
+rmdir "$PWD/images/$YEAR/$MONTH/01"
+rmdir "$PWD/images/$YEAR/$MONTH/02"
+rmdir "$PWD/images/$YEAR/$MONTH/03"
+rmdir "$PWD/images/$YEAR/$MONTH/04"
+rmdir "$PWD/images/$YEAR/$MONTH/05"
+rmdir "$PWD/images/$YEAR/$MONTH/06"
+rmdir "$PWD/images/$YEAR/$MONTH/07"
+rmdir "$PWD/images/$YEAR/$MONTH/08"
+rmdir "$PWD/images/$YEAR/$MONTH/09"
+rmdir "$PWD/images/$YEAR/$MONTH/10"
+rmdir "$PWD/images/$YEAR/$MONTH/11"
+rmdir "$PWD/images/$YEAR/$MONTH/12"
+rmdir "$PWD/images/$YEAR/$MONTH/13"
+rmdir "$PWD/images/$YEAR/$MONTH/14"
+rmdir "$PWD/images/$YEAR/$MONTH/15"
+rmdir "$PWD/images/$YEAR/$MONTH/16"
+rmdir "$PWD/images/$YEAR/$MONTH/17"
+rmdir "$PWD/images/$YEAR/$MONTH/18"
+rmdir "$PWD/images/$YEAR/$MONTH/19"
+rmdir "$PWD/images/$YEAR/$MONTH/20"
+rmdir "$PWD/images/$YEAR/$MONTH/21"
+rmdir "$PWD/images/$YEAR/$MONTH/22"
+rmdir "$PWD/images/$YEAR/$MONTH/23"
+rmdir "$PWD/images/$YEAR/$MONTH/24"
+rmdir "$PWD/images/$YEAR/$MONTH/25"
+rmdir "$PWD/images/$YEAR/$MONTH/26"
+rmdir "$PWD/images/$YEAR/$MONTH/27"
+rmdir "$PWD/images/$YEAR/$MONTH/28"
+echo "moved"
