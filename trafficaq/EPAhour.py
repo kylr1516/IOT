@@ -81,7 +81,7 @@ def site_csv_maker(file,stationcode,writefile,state='49'):
         sys.stdout=orig_std_out
 # site_csv_maker('hourly_88101_2021.csv','490353013','490353013.csv')
 
-def site_csv_hour_maker(file,stationcode,writefile,hours,state='49'):
+def site_csv_hour_maker(file,stationcode,writefile,hours,state='49'): #hours is an array with all the desired hours stored as a string like '12:00'
     rawdata = opener2(file,state)
     data=[]
     for line in rawdata:
