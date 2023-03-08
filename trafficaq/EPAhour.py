@@ -98,5 +98,5 @@ def site_csv_hour_maker(file,stationcode,writefile,hours,state='49'):
 
 site_csv_hour_maker('hourly_88101_2021.csv','490354002','490354002.csv',['12:00','09:00'])
 
-# stations of note= 490353013, 490450004, 490494001, 490353016, 490495010, 490353013, 490352005, 490353015, 490494002
+# stations of note for large spikes= 490353013(herriman#3), 490450004(erda), 490494001(lindon), 490353016(inland port), 490495010(spanish fork), 490352005(copperview), 490353015(utah techincal/main), 490494002(near road)
 #most of these spikes occured in august and on the 6th and 18th
