@@ -94,7 +94,11 @@ def allopener(file): #Utah is state code 49
     return lines  
 # print(allopener('combined_cams.txt'))
 
-def dist_dif(dif,file='combined_cams.txt'):
+
+# print("Enter difference:")
+# difference=float(input())
+difference=0.75
+def dist_dif(dif=difference,file='combined_cams.txt'):
     allgeos=(allopener(file))
     camlist=[]
     for cam in allgeos:
@@ -103,4 +107,4 @@ def dist_dif(dif,file='combined_cams.txt'):
         if hs.haversine(station,camera,unit=Unit.MILES)<=dif:
             camlist.append(cam[0])
     return camlist
-print(dist_dif(0.75))
+print(dist_dif())
